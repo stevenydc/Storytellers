@@ -37,8 +37,14 @@ GEM
       thread_safe (~> 0.3, >= 0.3.4)
       tzinfo (~> 1.1)
     arel (6.0.3)
+    autoprefixer-rails (6.1.0.1)
+      execjs
+      json
     binding_of_caller (0.7.2)
       debug_inspector (>= 0.0.1)
+    bootstrap-sass (3.3.5.1)
+      autoprefixer-rails (>= 5.0.0.1)
+      sass (>= 3.3.0)
     builder (3.2.2)
     byebug (8.2.0)
     coffee-rails (4.1.0)
@@ -48,6 +54,8 @@ GEM
       coffee-script-source
       execjs
     coffee-script-source (1.10.0)
+    d3-rails (3.5.6)
+      railties (>= 3.1)
     debug_inspector (0.0.2)
     erubis (2.7.0)
     execjs (2.6.0)
@@ -70,7 +78,7 @@ GEM
     mini_portile (0.6.2)
     minitest (5.8.3)
     multi_json (1.11.2)
-    mysql2 (0.4.1)
+    mysql2 (0.3.20)
     nokogiri (1.6.6.4)
       mini_portile (~> 0.6.0)
     rack (1.6.4)
@@ -140,11 +148,13 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  bootstrap-sass (~> 3.3, >= 3.3.5.1)
   byebug
   coffee-rails (~> 4.1.0)
+  d3-rails (~> 3.5, >= 3.5.6)
   jbuilder (~> 2.0)
   jquery-rails
-  mysql2
+  mysql2 (~> 0.3.13)
   rails (= 4.2.3)
   sass-rails (~> 5.0)
   sdoc (~> 0.4.0)
