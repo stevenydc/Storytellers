@@ -1,0 +1,12 @@
+---
+title: "ExplorationInR"
+author: "Steven Yin"
+date: "November 21, 2015"
+output: html_document
+---
+
+data = psq.tms <- read.csv("~/Documents/3rd year/Teradata Hackathon 2015/psq-tms.csv", header=TRUE)
+colnames(data)
+
+data_new = data[data["Population.type"] == "Refugees" | data["Population.type"] == "Asylum seekers",]
+
