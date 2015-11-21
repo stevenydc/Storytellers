@@ -4,9 +4,24 @@ author: "Steven Yin"
 date: "November 21, 2015"
 output: html_document
 ---
-
-data = psq.tms <- read.csv("~/Documents/3rd year/Teradata Hackathon 2015/psq-tms.csv", header=TRUE)
+data <- read.csv("~/Documents/3rd year/Teradata Hackathon 2015/psq-tms.csv")
 colnames(data)
 
+# Want only Refugees and Asylum seekers
 data_new = data[data["Population.type"] == "Refugees" | data["Population.type"] == "Asylum seekers",]
+
+# Deleted the useless row column
+data_new = data_new[,1:2]
+
+
+dim(unique(data_new["Destination"]))
+
+origin_destination = c(data_new["Destination"],data_new["Origin"])
+dim(origin_destination)
+
+
+
+
+
+
 
