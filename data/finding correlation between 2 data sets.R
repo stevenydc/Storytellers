@@ -47,6 +47,8 @@ while (i <= dim(dat)[2] && j <= dim(dat2)[2])
   }
 }
 
+correlations[is.na(correlations)] <- 0
+
 data.frame(Correlation = correlations)
 x = data.frame(Correlation = correlations)
 rownames(x) = countries[1:156]
