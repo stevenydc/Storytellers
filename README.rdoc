@@ -3,8 +3,25 @@
 Joraaver Chahal
 Dien Nguyen
 Alex Fong
-Dichen Yin
+Steven Yin
 Akash Malik
 
+Making informed decisions in today's age is getting harder and harder.
+More often than not, historical precedence sets the status quo. But if that's
+the case, than why do we struggle so much with today's issues. Are today's
+issues so different from the past that there is no precedent? For our 
+scientific troubles? Maybe. For our social troubles? Most definitely not.
+The data from the past tell us this.
+
+
+In this repo, in the data folder, you'll find the analyses done in R and python
+that created some of the images you'll find in our presentation, which can
+be found in the Presentation folder.
+
+This also has the skeleton of a Rails app. There was potential, but 7 hours didn't give us
+that chance when we were working with such massive data.
+
+We grabbed data from the [Global Terrorism Database](http://www.start.umd.edu/gtd/), and 
+from HDX for [Refugee arrival and departure](https://data.hdx.rwlabs.org/dataset/unhcr-refugee-pop-stats/resource/fbacbba3-1b20-4331-931b-6a21a4cb80f5).
 
 
