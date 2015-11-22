@@ -35,8 +35,6 @@ Des_Ori_pair.columns = ["Destination", "Origin"]
 
 
 
-
-
 '''
 Refugee data from specific origin to specific destination
 '''
@@ -62,7 +60,7 @@ Total refugee from a country over 2000-2013 (inclusive) time frame
 Total_rfg = []
 
 # country = "Syrian Arab Republic"
-country = "Islamic Republic of Iran"
+country = "Iraq"
 
 for year in range(2000,2014):
     Total_rfg.append(sum(df[df["Origin"] == country][year].astype(int)))
@@ -87,10 +85,10 @@ Total Refugee Data
 
 
 
-year = 2009
+year = 2013
 output = []
 # Destination = "Afghanistan"
-Target_Origin = "Syrian Arab Republic"
+Target_Origin = "Iraq"
 
 # Need to limit the country origins
 myPairs = Des_Ori_pair[Des_Ori_pair["Origin"] == Target_Origin]
