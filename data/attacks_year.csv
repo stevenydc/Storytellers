@@ -1,0 +1,3367 @@
+"Year" "Country" "Freq"
+"1" "1992" "Afghanistan" 36
+"2" "1994" "Afghanistan" 9
+"3" "1995" "Afghanistan" 6
+"4" "1996" "Afghanistan" 4
+"5" "1997" "Afghanistan" 1
+"6" "1998" "Afghanistan" 1
+"7" "1999" "Afghanistan" 9
+"8" "2000" "Afghanistan" 14
+"9" "2001" "Afghanistan" 14
+"10" "2002" "Afghanistan" 38
+"11" "2003" "Afghanistan" 100
+"12" "2004" "Afghanistan" 88
+"13" "2005" "Afghanistan" 155
+"14" "2006" "Afghanistan" 282
+"15" "2007" "Afghanistan" 340
+"16" "2008" "Afghanistan" 415
+"17" "2009" "Afghanistan" 502
+"18" "2010" "Afghanistan" 540
+"19" "1992" "Albania" 3
+"20" "1994" "Albania" 2
+"21" "1995" "Albania" 0
+"22" "1996" "Albania" 6
+"23" "1997" "Albania" 41
+"24" "1998" "Albania" 7
+"25" "1999" "Albania" 3
+"26" "2000" "Albania" 2
+"27" "2001" "Albania" 1
+"28" "2002" "Albania" 0
+"29" "2003" "Albania" 1
+"30" "2004" "Albania" 0
+"31" "2005" "Albania" 0
+"32" "2006" "Albania" 0
+"33" "2007" "Albania" 0
+"34" "2008" "Albania" 0
+"35" "2009" "Albania" 1
+"36" "2010" "Albania" 0
+"37" "1992" "Algeria" 215
+"38" "1994" "Algeria" 227
+"39" "1995" "Algeria" 185
+"40" "1996" "Algeria" 129
+"41" "1997" "Algeria" 344
+"42" "1998" "Algeria" 151
+"43" "1999" "Algeria" 106
+"44" "2000" "Algeria" 138
+"45" "2001" "Algeria" 113
+"46" "2002" "Algeria" 132
+"47" "2003" "Algeria" 75
+"48" "2004" "Algeria" 67
+"49" "2005" "Algeria" 104
+"50" "2006" "Algeria" 152
+"51" "2007" "Algeria" 124
+"52" "2008" "Algeria" 107
+"53" "2009" "Algeria" 108
+"54" "2010" "Algeria" 100
+"55" "1992" "Angola" 50
+"56" "1994" "Angola" 9
+"57" "1995" "Angola" 10
+"58" "1996" "Angola" 4
+"59" "1997" "Angola" 7
+"60" "1998" "Angola" 20
+"61" "1999" "Angola" 34
+"62" "2000" "Angola" 22
+"63" "2001" "Angola" 40
+"64" "2002" "Angola" 6
+"65" "2003" "Angola" 0
+"66" "2004" "Angola" 0
+"67" "2005" "Angola" 0
+"68" "2006" "Angola" 0
+"69" "2007" "Angola" 0
+"70" "2008" "Angola" 0
+"71" "2009" "Angola" 1
+"72" "2010" "Angola" 2
+"73" "1992" "Antigua and Barbuda" 1
+"74" "1994" "Antigua and Barbuda" 0
+"75" "1995" "Antigua and Barbuda" 0
+"76" "1996" "Antigua and Barbuda" 0
+"77" "1997" "Antigua and Barbuda" 1
+"78" "1998" "Antigua and Barbuda" 0
+"79" "1999" "Antigua and Barbuda" 0
+"80" "2000" "Antigua and Barbuda" 0
+"81" "2001" "Antigua and Barbuda" 0
+"82" "2002" "Antigua and Barbuda" 0
+"83" "2003" "Antigua and Barbuda" 0
+"84" "2004" "Antigua and Barbuda" 0
+"85" "2005" "Antigua and Barbuda" 0
+"86" "2006" "Antigua and Barbuda" 0
+"87" "2007" "Antigua and Barbuda" 0
+"88" "2008" "Antigua and Barbuda" 0
+"89" "2009" "Antigua and Barbuda" 0
+"90" "2010" "Antigua and Barbuda" 0
+"91" "1992" "Argentina" 41
+"92" "1994" "Argentina" 14
+"93" "1995" "Argentina" 16
+"94" "1996" "Argentina" 19
+"95" "1997" "Argentina" 11
+"96" "1998" "Argentina" 0
+"97" "1999" "Argentina" 1
+"98" "2000" "Argentina" 0
+"99" "2001" "Argentina" 2
+"100" "2002" "Argentina" 0
+"101" "2003" "Argentina" 1
+"102" "2004" "Argentina" 0
+"103" "2005" "Argentina" 3
+"104" "2006" "Argentina" 0
+"105" "2007" "Argentina" 0
+"106" "2008" "Argentina" 0
+"107" "2009" "Argentina" 1
+"108" "2010" "Argentina" 5
+"109" "1992" "Armenia" 2
+"110" "1994" "Armenia" 4
+"111" "1995" "Armenia" 1
+"112" "1996" "Armenia" 1
+"113" "1997" "Armenia" 0
+"114" "1998" "Armenia" 2
+"115" "1999" "Armenia" 2
+"116" "2000" "Armenia" 2
+"117" "2001" "Armenia" 2
+"118" "2002" "Armenia" 0
+"119" "2003" "Armenia" 0
+"120" "2004" "Armenia" 0
+"121" "2005" "Armenia" 0
+"122" "2006" "Armenia" 0
+"123" "2007" "Armenia" 1
+"124" "2008" "Armenia" 0
+"125" "2009" "Armenia" 1
+"126" "2010" "Armenia" 0
+"127" "1992" "Australia" 4
+"128" "1994" "Australia" 9
+"129" "1995" "Australia" 5
+"130" "1996" "Australia" 5
+"131" "1997" "Australia" 4
+"132" "1998" "Australia" 6
+"133" "1999" "Australia" 0
+"134" "2000" "Australia" 1
+"135" "2001" "Australia" 2
+"136" "2002" "Australia" 0
+"137" "2003" "Australia" 0
+"138" "2004" "Australia" 0
+"139" "2005" "Australia" 0
+"140" "2006" "Australia" 2
+"141" "2007" "Australia" 0
+"142" "2008" "Australia" 3
+"143" "2009" "Australia" 1
+"144" "2010" "Australia" 1
+"145" "1992" "Austria" 8
+"146" "1994" "Austria" 5
+"147" "1995" "Austria" 12
+"148" "1996" "Austria" 4
+"149" "1997" "Austria" 1
+"150" "1998" "Austria" 1
+"151" "1999" "Austria" 0
+"152" "2000" "Austria" 0
+"153" "2001" "Austria" 0
+"154" "2002" "Austria" 0
+"155" "2003" "Austria" 0
+"156" "2004" "Austria" 0
+"157" "2005" "Austria" 0
+"158" "2006" "Austria" 1
+"159" "2007" "Austria" 1
+"160" "2008" "Austria" 7
+"161" "2009" "Austria" 3
+"162" "2010" "Austria" 0
+"163" "1992" "Azerbaijan" 12
+"164" "1994" "Azerbaijan" 11
+"165" "1995" "Azerbaijan" 2
+"166" "1996" "Azerbaijan" 2
+"167" "1997" "Azerbaijan" 1
+"168" "1998" "Azerbaijan" 0
+"169" "1999" "Azerbaijan" 0
+"170" "2000" "Azerbaijan" 1
+"171" "2001" "Azerbaijan" 4
+"172" "2002" "Azerbaijan" 1
+"173" "2003" "Azerbaijan" 0
+"174" "2004" "Azerbaijan" 0
+"175" "2005" "Azerbaijan" 0
+"176" "2006" "Azerbaijan" 0
+"177" "2007" "Azerbaijan" 1
+"178" "2008" "Azerbaijan" 2
+"179" "2009" "Azerbaijan" 2
+"180" "2010" "Azerbaijan" 0
+"181" "1992" "Bahamas" 0
+"182" "1994" "Bahamas" 0
+"183" "1995" "Bahamas" 0
+"184" "1996" "Bahamas" 0
+"185" "1997" "Bahamas" 2
+"186" "1998" "Bahamas" 0
+"187" "1999" "Bahamas" 0
+"188" "2000" "Bahamas" 0
+"189" "2001" "Bahamas" 0
+"190" "2002" "Bahamas" 0
+"191" "2003" "Bahamas" 0
+"192" "2004" "Bahamas" 0
+"193" "2005" "Bahamas" 0
+"194" "2006" "Bahamas" 0
+"195" "2007" "Bahamas" 0
+"196" "2008" "Bahamas" 0
+"197" "2009" "Bahamas" 0
+"198" "2010" "Bahamas" 0
+"199" "1992" "Bahrain" 0
+"200" "1994" "Bahrain" 1
+"201" "1995" "Bahrain" 8
+"202" "1996" "Bahrain" 16
+"203" "1997" "Bahrain" 11
+"204" "1998" "Bahrain" 0
+"205" "1999" "Bahrain" 0
+"206" "2000" "Bahrain" 0
+"207" "2001" "Bahrain" 0
+"208" "2002" "Bahrain" 0
+"209" "2003" "Bahrain" 1
+"210" "2004" "Bahrain" 0
+"211" "2005" "Bahrain" 0
+"212" "2006" "Bahrain" 1
+"213" "2007" "Bahrain" 0
+"214" "2008" "Bahrain" 1
+"215" "2009" "Bahrain" 0
+"216" "2010" "Bahrain" 2
+"217" "1992" "Bangladesh" 76
+"218" "1994" "Bangladesh" 68
+"219" "1995" "Bangladesh" 74
+"220" "1996" "Bangladesh" 161
+"221" "1997" "Bangladesh" 17
+"222" "1998" "Bangladesh" 2
+"223" "1999" "Bangladesh" 11
+"224" "2000" "Bangladesh" 22
+"225" "2001" "Bangladesh" 15
+"226" "2002" "Bangladesh" 5
+"227" "2003" "Bangladesh" 4
+"228" "2004" "Bangladesh" 11
+"229" "2005" "Bangladesh" 22
+"230" "2006" "Bangladesh" 24
+"231" "2007" "Bangladesh" 9
+"232" "2008" "Bangladesh" 19
+"233" "2009" "Bangladesh" 28
+"234" "2010" "Bangladesh" 22
+"235" "1992" "Barbados" 1
+"236" "1994" "Barbados" 0
+"237" "1995" "Barbados" 0
+"238" "1996" "Barbados" 0
+"239" "1997" "Barbados" 0
+"240" "1998" "Barbados" 0
+"241" "1999" "Barbados" 0
+"242" "2000" "Barbados" 0
+"243" "2001" "Barbados" 0
+"244" "2002" "Barbados" 0
+"245" "2003" "Barbados" 0
+"246" "2004" "Barbados" 0
+"247" "2005" "Barbados" 0
+"248" "2006" "Barbados" 0
+"249" "2007" "Barbados" 0
+"250" "2008" "Barbados" 0
+"251" "2009" "Barbados" 0
+"252" "2010" "Barbados" 0
+"253" "1992" "Belarus" 0
+"254" "1994" "Belarus" 1
+"255" "1995" "Belarus" 0
+"256" "1996" "Belarus" 0
+"257" "1997" "Belarus" 2
+"258" "1998" "Belarus" 0
+"259" "1999" "Belarus" 1
+"260" "2000" "Belarus" 0
+"261" "2001" "Belarus" 1
+"262" "2002" "Belarus" 0
+"263" "2003" "Belarus" 0
+"264" "2004" "Belarus" 0
+"265" "2005" "Belarus" 0
+"266" "2006" "Belarus" 1
+"267" "2007" "Belarus" 0
+"268" "2008" "Belarus" 1
+"269" "2009" "Belarus" 0
+"270" "2010" "Belarus" 2
+"271" "1992" "Belgium" 9
+"272" "1994" "Belgium" 5
+"273" "1995" "Belgium" 1
+"274" "1996" "Belgium" 0
+"275" "1997" "Belgium" 2
+"276" "1998" "Belgium" 3
+"277" "1999" "Belgium" 2
+"278" "2000" "Belgium" 0
+"279" "2001" "Belgium" 0
+"280" "2002" "Belgium" 3
+"281" "2003" "Belgium" 8
+"282" "2004" "Belgium" 0
+"283" "2005" "Belgium" 0
+"284" "2006" "Belgium" 0
+"285" "2007" "Belgium" 1
+"286" "2008" "Belgium" 0
+"287" "2009" "Belgium" 1
+"288" "2010" "Belgium" 0
+"289" "1992" "Belize" 2
+"290" "1994" "Belize" 0
+"291" "1995" "Belize" 0
+"292" "1996" "Belize" 0
+"293" "1997" "Belize" 0
+"294" "1998" "Belize" 0
+"295" "1999" "Belize" 0
+"296" "2000" "Belize" 1
+"297" "2001" "Belize" 0
+"298" "2002" "Belize" 0
+"299" "2003" "Belize" 0
+"300" "2004" "Belize" 0
+"301" "2005" "Belize" 0
+"302" "2006" "Belize" 0
+"303" "2007" "Belize" 0
+"304" "2008" "Belize" 0
+"305" "2009" "Belize" 0
+"306" "2010" "Belize" 0
+"307" "1992" "Benin" 1
+"308" "1994" "Benin" 3
+"309" "1995" "Benin" 1
+"310" "1996" "Benin" 2
+"311" "1997" "Benin" 0
+"312" "1998" "Benin" 0
+"313" "1999" "Benin" 0
+"314" "2000" "Benin" 0
+"315" "2001" "Benin" 0
+"316" "2002" "Benin" 0
+"317" "2003" "Benin" 0
+"318" "2004" "Benin" 0
+"319" "2005" "Benin" 0
+"320" "2006" "Benin" 0
+"321" "2007" "Benin" 1
+"322" "2008" "Benin" 0
+"323" "2009" "Benin" 0
+"324" "2010" "Benin" 0
+"325" "1992" "Bhutan" 0
+"326" "1994" "Bhutan" 0
+"327" "1995" "Bhutan" 0
+"328" "1996" "Bhutan" 0
+"329" "1997" "Bhutan" 0
+"330" "1998" "Bhutan" 0
+"331" "1999" "Bhutan" 0
+"332" "2000" "Bhutan" 0
+"333" "2001" "Bhutan" 0
+"334" "2002" "Bhutan" 0
+"335" "2003" "Bhutan" 0
+"336" "2004" "Bhutan" 0
+"337" "2005" "Bhutan" 0
+"338" "2006" "Bhutan" 1
+"339" "2007" "Bhutan" 0
+"340" "2008" "Bhutan" 3
+"341" "2009" "Bhutan" 0
+"342" "2010" "Bhutan" 0
+"343" "1992" "Bolivia" 38
+"344" "1994" "Bolivia" 8
+"345" "1995" "Bolivia" 2
+"346" "1996" "Bolivia" 1
+"347" "1997" "Bolivia" 4
+"348" "1998" "Bolivia" 0
+"349" "1999" "Bolivia" 0
+"350" "2000" "Bolivia" 0
+"351" "2001" "Bolivia" 0
+"352" "2002" "Bolivia" 0
+"353" "2003" "Bolivia" 1
+"354" "2004" "Bolivia" 0
+"355" "2005" "Bolivia" 1
+"356" "2006" "Bolivia" 0
+"357" "2007" "Bolivia" 3
+"358" "2008" "Bolivia" 0
+"359" "2009" "Bolivia" 3
+"360" "2010" "Bolivia" 0
+"361" "1992" "Bosnia-Herzegovina" 22
+"362" "1994" "Bosnia-Herzegovina" 9
+"363" "1995" "Bosnia-Herzegovina" 6
+"364" "1996" "Bosnia-Herzegovina" 33
+"365" "1997" "Bosnia-Herzegovina" 42
+"366" "1998" "Bosnia-Herzegovina" 9
+"367" "1999" "Bosnia-Herzegovina" 5
+"368" "2000" "Bosnia-Herzegovina" 6
+"369" "2001" "Bosnia-Herzegovina" 2
+"370" "2002" "Bosnia-Herzegovina" 3
+"371" "2003" "Bosnia-Herzegovina" 1
+"372" "2004" "Bosnia-Herzegovina" 0
+"373" "2005" "Bosnia-Herzegovina" 1
+"374" "2006" "Bosnia-Herzegovina" 1
+"375" "2007" "Bosnia-Herzegovina" 2
+"376" "2008" "Bosnia-Herzegovina" 4
+"377" "2009" "Bosnia-Herzegovina" 1
+"378" "2010" "Bosnia-Herzegovina" 1
+"379" "1992" "Botswana" 0
+"380" "1994" "Botswana" 0
+"381" "1995" "Botswana" 1
+"382" "1996" "Botswana" 0
+"383" "1997" "Botswana" 0
+"384" "1998" "Botswana" 0
+"385" "1999" "Botswana" 0
+"386" "2000" "Botswana" 0
+"387" "2001" "Botswana" 0
+"388" "2002" "Botswana" 0
+"389" "2003" "Botswana" 0
+"390" "2004" "Botswana" 0
+"391" "2005" "Botswana" 0
+"392" "2006" "Botswana" 0
+"393" "2007" "Botswana" 0
+"394" "2008" "Botswana" 0
+"395" "2009" "Botswana" 0
+"396" "2010" "Botswana" 0
+"397" "1992" "Brazil" 24
+"398" "1994" "Brazil" 19
+"399" "1995" "Brazil" 23
+"400" "1996" "Brazil" 18
+"401" "1997" "Brazil" 39
+"402" "1998" "Brazil" 2
+"403" "1999" "Brazil" 1
+"404" "2000" "Brazil" 2
+"405" "2001" "Brazil" 3
+"406" "2002" "Brazil" 1
+"407" "2003" "Brazil" 1
+"408" "2004" "Brazil" 0
+"409" "2005" "Brazil" 0
+"410" "2006" "Brazil" 3
+"411" "2007" "Brazil" 0
+"412" "2008" "Brazil" 0
+"413" "2009" "Brazil" 0
+"414" "2010" "Brazil" 0
+"415" "1992" "Brunei" 1
+"416" "1994" "Brunei" 0
+"417" "1995" "Brunei" 0
+"418" "1996" "Brunei" 0
+"419" "1997" "Brunei" 0
+"420" "1998" "Brunei" 0
+"421" "1999" "Brunei" 0
+"422" "2000" "Brunei" 0
+"423" "2001" "Brunei" 0
+"424" "2002" "Brunei" 0
+"425" "2003" "Brunei" 0
+"426" "2004" "Brunei" 0
+"427" "2005" "Brunei" 0
+"428" "2006" "Brunei" 0
+"429" "2007" "Brunei" 0
+"430" "2008" "Brunei" 0
+"431" "2009" "Brunei" 0
+"432" "2010" "Brunei" 0
+"433" "1992" "Bulgaria" 2
+"434" "1994" "Bulgaria" 2
+"435" "1995" "Bulgaria" 2
+"436" "1996" "Bulgaria" 12
+"437" "1997" "Bulgaria" 3
+"438" "1998" "Bulgaria" 2
+"439" "1999" "Bulgaria" 1
+"440" "2000" "Bulgaria" 2
+"441" "2001" "Bulgaria" 1
+"442" "2002" "Bulgaria" 1
+"443" "2003" "Bulgaria" 0
+"444" "2004" "Bulgaria" 0
+"445" "2005" "Bulgaria" 0
+"446" "2006" "Bulgaria" 0
+"447" "2007" "Bulgaria" 0
+"448" "2008" "Bulgaria" 2
+"449" "2009" "Bulgaria" 0
+"450" "2010" "Bulgaria" 0
+"451" "1992" "Burundi" 2
+"452" "1994" "Burundi" 16
+"453" "1995" "Burundi" 83
+"454" "1996" "Burundi" 35
+"455" "1997" "Burundi" 79
+"456" "1998" "Burundi" 13
+"457" "1999" "Burundi" 13
+"458" "2000" "Burundi" 17
+"459" "2001" "Burundi" 37
+"460" "2002" "Burundi" 18
+"461" "2003" "Burundi" 18
+"462" "2004" "Burundi" 1
+"463" "2005" "Burundi" 5
+"464" "2006" "Burundi" 5
+"465" "2007" "Burundi" 3
+"466" "2008" "Burundi" 7
+"467" "2009" "Burundi" 0
+"468" "2010" "Burundi" 29
+"469" "1992" "Cambodia" 67
+"470" "1994" "Cambodia" 39
+"471" "1995" "Cambodia" 56
+"472" "1996" "Cambodia" 33
+"473" "1997" "Cambodia" 18
+"474" "1998" "Cambodia" 7
+"475" "1999" "Cambodia" 8
+"476" "2000" "Cambodia" 4
+"477" "2001" "Cambodia" 7
+"478" "2002" "Cambodia" 3
+"479" "2003" "Cambodia" 1
+"480" "2004" "Cambodia" 0
+"481" "2005" "Cambodia" 0
+"482" "2006" "Cambodia" 0
+"483" "2007" "Cambodia" 0
+"484" "2008" "Cambodia" 2
+"485" "2009" "Cambodia" 0
+"486" "2010" "Cambodia" 0
+"487" "1992" "Cameroon" 6
+"488" "1994" "Cameroon" 6
+"489" "1995" "Cameroon" 2
+"490" "1996" "Cameroon" 0
+"491" "1997" "Cameroon" 0
+"492" "1998" "Cameroon" 1
+"493" "1999" "Cameroon" 0
+"494" "2000" "Cameroon" 0
+"495" "2001" "Cameroon" 0
+"496" "2002" "Cameroon" 0
+"497" "2003" "Cameroon" 0
+"498" "2004" "Cameroon" 0
+"499" "2005" "Cameroon" 0
+"500" "2006" "Cameroon" 0
+"501" "2007" "Cameroon" 1
+"502" "2008" "Cameroon" 1
+"503" "2009" "Cameroon" 1
+"504" "2010" "Cameroon" 3
+"505" "1992" "Canada" 3
+"506" "1994" "Canada" 4
+"507" "1995" "Canada" 5
+"508" "1996" "Canada" 1
+"509" "1997" "Canada" 2
+"510" "1998" "Canada" 4
+"511" "1999" "Canada" 2
+"512" "2000" "Canada" 5
+"513" "2001" "Canada" 0
+"514" "2002" "Canada" 0
+"515" "2003" "Canada" 0
+"516" "2004" "Canada" 2
+"517" "2005" "Canada" 0
+"518" "2006" "Canada" 2
+"519" "2007" "Canada" 0
+"520" "2008" "Canada" 5
+"521" "2009" "Canada" 4
+"522" "2010" "Canada" 2
+"523" "1992" "Cayman Islands" 0
+"524" "1994" "Cayman Islands" 1
+"525" "1995" "Cayman Islands" 0
+"526" "1996" "Cayman Islands" 0
+"527" "1997" "Cayman Islands" 0
+"528" "1998" "Cayman Islands" 0
+"529" "1999" "Cayman Islands" 0
+"530" "2000" "Cayman Islands" 0
+"531" "2001" "Cayman Islands" 0
+"532" "2002" "Cayman Islands" 0
+"533" "2003" "Cayman Islands" 0
+"534" "2004" "Cayman Islands" 0
+"535" "2005" "Cayman Islands" 0
+"536" "2006" "Cayman Islands" 0
+"537" "2007" "Cayman Islands" 0
+"538" "2008" "Cayman Islands" 0
+"539" "2009" "Cayman Islands" 0
+"540" "2010" "Cayman Islands" 0
+"541" "1992" "Central African Republic" 1
+"542" "1994" "Central African Republic" 1
+"543" "1995" "Central African Republic" 0
+"544" "1996" "Central African Republic" 1
+"545" "1997" "Central African Republic" 0
+"546" "1998" "Central African Republic" 0
+"547" "1999" "Central African Republic" 0
+"548" "2000" "Central African Republic" 1
+"549" "2001" "Central African Republic" 1
+"550" "2002" "Central African Republic" 0
+"551" "2003" "Central African Republic" 0
+"552" "2004" "Central African Republic" 0
+"553" "2005" "Central African Republic" 0
+"554" "2006" "Central African Republic" 1
+"555" "2007" "Central African Republic" 1
+"556" "2008" "Central African Republic" 2
+"557" "2009" "Central African Republic" 5
+"558" "2010" "Central African Republic" 13
+"559" "1992" "Chad" 4
+"560" "1994" "Chad" 1
+"561" "1995" "Chad" 3
+"562" "1996" "Chad" 1
+"563" "1997" "Chad" 1
+"564" "1998" "Chad" 1
+"565" "1999" "Chad" 1
+"566" "2000" "Chad" 0
+"567" "2001" "Chad" 0
+"568" "2002" "Chad" 4
+"569" "2003" "Chad" 0
+"570" "2004" "Chad" 0
+"571" "2005" "Chad" 0
+"572" "2006" "Chad" 11
+"573" "2007" "Chad" 7
+"574" "2008" "Chad" 8
+"575" "2009" "Chad" 3
+"576" "2010" "Chad" 1
+"577" "1992" "Chile" 119
+"578" "1994" "Chile" 15
+"579" "1995" "Chile" 17
+"580" "1996" "Chile" 8
+"581" "1997" "Chile" 6
+"582" "1998" "Chile" 1
+"583" "1999" "Chile" 3
+"584" "2000" "Chile" 2
+"585" "2001" "Chile" 3
+"586" "2002" "Chile" 1
+"587" "2003" "Chile" 2
+"588" "2004" "Chile" 0
+"589" "2005" "Chile" 0
+"590" "2006" "Chile" 1
+"591" "2007" "Chile" 8
+"592" "2008" "Chile" 4
+"593" "2009" "Chile" 8
+"594" "2010" "Chile" 5
+"595" "1992" "China" 5
+"596" "1994" "China" 13
+"597" "1995" "China" 7
+"598" "1996" "China" 62
+"599" "1997" "China" 18
+"600" "1998" "China" 2
+"601" "1999" "China" 2
+"602" "2000" "China" 4
+"603" "2001" "China" 13
+"604" "2002" "China" 2
+"605" "2003" "China" 3
+"606" "2004" "China" 2
+"607" "2005" "China" 1
+"608" "2006" "China" 1
+"609" "2007" "China" 0
+"610" "2008" "China" 20
+"611" "2009" "China" 7
+"612" "2010" "China" 1
+"613" "1992" "Colombia" 523
+"614" "1994" "Colombia" 201
+"615" "1995" "Colombia" 124
+"616" "1996" "Colombia" 409
+"617" "1997" "Colombia" 598
+"618" "1998" "Colombia" 94
+"619" "1999" "Colombia" 116
+"620" "2000" "Colombia" 137
+"621" "2001" "Colombia" 207
+"622" "2002" "Colombia" 150
+"623" "2003" "Colombia" 98
+"624" "2004" "Colombia" 37
+"625" "2005" "Colombia" 42
+"626" "2006" "Colombia" 43
+"627" "2007" "Colombia" 30
+"628" "2008" "Colombia" 133
+"629" "2009" "Colombia" 139
+"630" "2010" "Colombia" 136
+"631" "1992" "Comoros" 1
+"632" "1994" "Comoros" 1
+"633" "1995" "Comoros" 0
+"634" "1996" "Comoros" 0
+"635" "1997" "Comoros" 3
+"636" "1998" "Comoros" 0
+"637" "1999" "Comoros" 0
+"638" "2000" "Comoros" 0
+"639" "2001" "Comoros" 0
+"640" "2002" "Comoros" 0
+"641" "2003" "Comoros" 0
+"642" "2004" "Comoros" 0
+"643" "2005" "Comoros" 0
+"644" "2006" "Comoros" 0
+"645" "2007" "Comoros" 0
+"646" "2008" "Comoros" 0
+"647" "2009" "Comoros" 0
+"648" "2010" "Comoros" 0
+"649" "1992" "Costa Rica" 2
+"650" "1994" "Costa Rica" 1
+"651" "1995" "Costa Rica" 0
+"652" "1996" "Costa Rica" 1
+"653" "1997" "Costa Rica" 1
+"654" "1998" "Costa Rica" 0
+"655" "1999" "Costa Rica" 0
+"656" "2000" "Costa Rica" 0
+"657" "2001" "Costa Rica" 1
+"658" "2002" "Costa Rica" 0
+"659" "2003" "Costa Rica" 0
+"660" "2004" "Costa Rica" 0
+"661" "2005" "Costa Rica" 0
+"662" "2006" "Costa Rica" 0
+"663" "2007" "Costa Rica" 0
+"664" "2008" "Costa Rica" 0
+"665" "2009" "Costa Rica" 0
+"666" "2010" "Costa Rica" 0
+"667" "1992" "Croatia" 4
+"668" "1994" "Croatia" 4
+"669" "1995" "Croatia" 1
+"670" "1996" "Croatia" 3
+"671" "1997" "Croatia" 8
+"672" "1998" "Croatia" 0
+"673" "1999" "Croatia" 0
+"674" "2000" "Croatia" 2
+"675" "2001" "Croatia" 3
+"676" "2002" "Croatia" 0
+"677" "2003" "Croatia" 0
+"678" "2004" "Croatia" 0
+"679" "2005" "Croatia" 1
+"680" "2006" "Croatia" 0
+"681" "2007" "Croatia" 0
+"682" "2008" "Croatia" 2
+"683" "2009" "Croatia" 1
+"684" "2010" "Croatia" 0
+"685" "1992" "Cuba" 4
+"686" "1994" "Cuba" 9
+"687" "1995" "Cuba" 0
+"688" "1996" "Cuba" 1
+"689" "1997" "Cuba" 14
+"690" "1998" "Cuba" 0
+"691" "1999" "Cuba" 0
+"692" "2000" "Cuba" 0
+"693" "2001" "Cuba" 0
+"694" "2002" "Cuba" 0
+"695" "2003" "Cuba" 0
+"696" "2004" "Cuba" 0
+"697" "2005" "Cuba" 0
+"698" "2006" "Cuba" 0
+"699" "2007" "Cuba" 1
+"700" "2008" "Cuba" 0
+"701" "2009" "Cuba" 0
+"702" "2010" "Cuba" 0
+"703" "1992" "Cyprus" 6
+"704" "1994" "Cyprus" 6
+"705" "1995" "Cyprus" 3
+"706" "1996" "Cyprus" 10
+"707" "1997" "Cyprus" 0
+"708" "1998" "Cyprus" 1
+"709" "1999" "Cyprus" 1
+"710" "2000" "Cyprus" 2
+"711" "2001" "Cyprus" 1
+"712" "2002" "Cyprus" 0
+"713" "2003" "Cyprus" 0
+"714" "2004" "Cyprus" 1
+"715" "2005" "Cyprus" 0
+"716" "2006" "Cyprus" 0
+"717" "2007" "Cyprus" 1
+"718" "2008" "Cyprus" 0
+"719" "2009" "Cyprus" 0
+"720" "2010" "Cyprus" 0
+"721" "1992" "Czech Republic" 0
+"722" "1994" "Czech Republic" 1
+"723" "1995" "Czech Republic" 3
+"724" "1996" "Czech Republic" 3
+"725" "1997" "Czech Republic" 4
+"726" "1998" "Czech Republic" 0
+"727" "1999" "Czech Republic" 0
+"728" "2000" "Czech Republic" 0
+"729" "2001" "Czech Republic" 1
+"730" "2002" "Czech Republic" 0
+"731" "2003" "Czech Republic" 1
+"732" "2004" "Czech Republic" 0
+"733" "2005" "Czech Republic" 0
+"734" "2006" "Czech Republic" 0
+"735" "2007" "Czech Republic" 0
+"736" "2008" "Czech Republic" 2
+"737" "2009" "Czech Republic" 1
+"738" "2010" "Czech Republic" 0
+"739" "1992" "Czechoslovakia" 3
+"740" "1994" "Czechoslovakia" 0
+"741" "1995" "Czechoslovakia" 0
+"742" "1996" "Czechoslovakia" 0
+"743" "1997" "Czechoslovakia" 0
+"744" "1998" "Czechoslovakia" 0
+"745" "1999" "Czechoslovakia" 0
+"746" "2000" "Czechoslovakia" 0
+"747" "2001" "Czechoslovakia" 0
+"748" "2002" "Czechoslovakia" 0
+"749" "2003" "Czechoslovakia" 0
+"750" "2004" "Czechoslovakia" 0
+"751" "2005" "Czechoslovakia" 0
+"752" "2006" "Czechoslovakia" 0
+"753" "2007" "Czechoslovakia" 0
+"754" "2008" "Czechoslovakia" 0
+"755" "2009" "Czechoslovakia" 0
+"756" "2010" "Czechoslovakia" 0
+"757" "1992" "Democratic Republic of the Congo" 0
+"758" "1994" "Democratic Republic of the Congo" 0
+"759" "1995" "Democratic Republic of the Congo" 0
+"760" "1996" "Democratic Republic of the Congo" 0
+"761" "1997" "Democratic Republic of the Congo" 1
+"762" "1998" "Democratic Republic of the Congo" 4
+"763" "1999" "Democratic Republic of the Congo" 3
+"764" "2000" "Democratic Republic of the Congo" 3
+"765" "2001" "Democratic Republic of the Congo" 4
+"766" "2002" "Democratic Republic of the Congo" 7
+"767" "2003" "Democratic Republic of the Congo" 6
+"768" "2004" "Democratic Republic of the Congo" 5
+"769" "2005" "Democratic Republic of the Congo" 4
+"770" "2006" "Democratic Republic of the Congo" 5
+"771" "2007" "Democratic Republic of the Congo" 11
+"772" "2008" "Democratic Republic of the Congo" 20
+"773" "2009" "Democratic Republic of the Congo" 54
+"774" "2010" "Democratic Republic of the Congo" 18
+"775" "1992" "Denmark" 4
+"776" "1994" "Denmark" 0
+"777" "1995" "Denmark" 6
+"778" "1996" "Denmark" 0
+"779" "1997" "Denmark" 0
+"780" "1998" "Denmark" 0
+"781" "1999" "Denmark" 1
+"782" "2000" "Denmark" 0
+"783" "2001" "Denmark" 0
+"784" "2002" "Denmark" 0
+"785" "2003" "Denmark" 0
+"786" "2004" "Denmark" 0
+"787" "2005" "Denmark" 0
+"788" "2006" "Denmark" 0
+"789" "2007" "Denmark" 0
+"790" "2008" "Denmark" 1
+"791" "2009" "Denmark" 0
+"792" "2010" "Denmark" 1
+"793" "1992" "Djibouti" 6
+"794" "1994" "Djibouti" 2
+"795" "1995" "Djibouti" 2
+"796" "1996" "Djibouti" 0
+"797" "1997" "Djibouti" 1
+"798" "1998" "Djibouti" 0
+"799" "1999" "Djibouti" 0
+"800" "2000" "Djibouti" 0
+"801" "2001" "Djibouti" 0
+"802" "2002" "Djibouti" 0
+"803" "2003" "Djibouti" 0
+"804" "2004" "Djibouti" 1
+"805" "2005" "Djibouti" 0
+"806" "2006" "Djibouti" 0
+"807" "2007" "Djibouti" 0
+"808" "2008" "Djibouti" 0
+"809" "2009" "Djibouti" 0
+"810" "2010" "Djibouti" 0
+"811" "1992" "Dominica" 0
+"812" "1994" "Dominica" 0
+"813" "1995" "Dominica" 0
+"814" "1996" "Dominica" 0
+"815" "1997" "Dominica" 1
+"816" "1998" "Dominica" 0
+"817" "1999" "Dominica" 0
+"818" "2000" "Dominica" 0
+"819" "2001" "Dominica" 0
+"820" "2002" "Dominica" 0
+"821" "2003" "Dominica" 0
+"822" "2004" "Dominica" 0
+"823" "2005" "Dominica" 0
+"824" "2006" "Dominica" 0
+"825" "2007" "Dominica" 0
+"826" "2008" "Dominica" 0
+"827" "2009" "Dominica" 0
+"828" "2010" "Dominica" 0
+"829" "1992" "Dominican Republic" 11
+"830" "1994" "Dominican Republic" 7
+"831" "1995" "Dominican Republic" 0
+"832" "1996" "Dominican Republic" 3
+"833" "1997" "Dominican Republic" 12
+"834" "1998" "Dominican Republic" 0
+"835" "1999" "Dominican Republic" 0
+"836" "2000" "Dominican Republic" 0
+"837" "2001" "Dominican Republic" 0
+"838" "2002" "Dominican Republic" 0
+"839" "2003" "Dominican Republic" 0
+"840" "2004" "Dominican Republic" 0
+"841" "2005" "Dominican Republic" 0
+"842" "2006" "Dominican Republic" 0
+"843" "2007" "Dominican Republic" 0
+"844" "2008" "Dominican Republic" 0
+"845" "2009" "Dominican Republic" 0
+"846" "2010" "Dominican Republic" 0
+"847" "1992" "East Timor" 0
+"848" "1994" "East Timor" 0
+"849" "1995" "East Timor" 0
+"850" "1996" "East Timor" 0
+"851" "1997" "East Timor" 0
+"852" "1998" "East Timor" 0
+"853" "1999" "East Timor" 0
+"854" "2000" "East Timor" 4
+"855" "2001" "East Timor" 0
+"856" "2002" "East Timor" 0
+"857" "2003" "East Timor" 2
+"858" "2004" "East Timor" 0
+"859" "2005" "East Timor" 1
+"860" "2006" "East Timor" 0
+"861" "2007" "East Timor" 2
+"862" "2008" "East Timor" 1
+"863" "2009" "East Timor" 0
+"864" "2010" "East Timor" 0
+"865" "1992" "Ecuador" 23
+"866" "1994" "Ecuador" 6
+"867" "1995" "Ecuador" 6
+"868" "1996" "Ecuador" 5
+"869" "1997" "Ecuador" 4
+"870" "1998" "Ecuador" 3
+"871" "1999" "Ecuador" 2
+"872" "2000" "Ecuador" 4
+"873" "2001" "Ecuador" 5
+"874" "2002" "Ecuador" 2
+"875" "2003" "Ecuador" 4
+"876" "2004" "Ecuador" 2
+"877" "2005" "Ecuador" 0
+"878" "2006" "Ecuador" 0
+"879" "2007" "Ecuador" 0
+"880" "2008" "Ecuador" 2
+"881" "2009" "Ecuador" 1
+"882" "2010" "Ecuador" 0
+"883" "1992" "Egypt" 79
+"884" "1994" "Egypt" 143
+"885" "1995" "Egypt" 102
+"886" "1996" "Egypt" 51
+"887" "1997" "Egypt" 22
+"888" "1998" "Egypt" 3
+"889" "1999" "Egypt" 1
+"890" "2000" "Egypt" 0
+"891" "2001" "Egypt" 0
+"892" "2002" "Egypt" 0
+"893" "2003" "Egypt" 0
+"894" "2004" "Egypt" 2
+"895" "2005" "Egypt" 2
+"896" "2006" "Egypt" 5
+"897" "2007" "Egypt" 0
+"898" "2008" "Egypt" 1
+"899" "2009" "Egypt" 2
+"900" "2010" "Egypt" 2
+"901" "1992" "El Salvador" 29
+"902" "1994" "El Salvador" 21
+"903" "1995" "El Salvador" 9
+"904" "1996" "El Salvador" 7
+"905" "1997" "El Salvador" 2
+"906" "1998" "El Salvador" 0
+"907" "1999" "El Salvador" 0
+"908" "2000" "El Salvador" 0
+"909" "2001" "El Salvador" 0
+"910" "2002" "El Salvador" 0
+"911" "2003" "El Salvador" 0
+"912" "2004" "El Salvador" 0
+"913" "2005" "El Salvador" 0
+"914" "2006" "El Salvador" 0
+"915" "2007" "El Salvador" 0
+"916" "2008" "El Salvador" 0
+"917" "2009" "El Salvador" 0
+"918" "2010" "El Salvador" 0
+"919" "1992" "Equatorial Guinea" 1
+"920" "1994" "Equatorial Guinea" 0
+"921" "1995" "Equatorial Guinea" 0
+"922" "1996" "Equatorial Guinea" 0
+"923" "1997" "Equatorial Guinea" 0
+"924" "1998" "Equatorial Guinea" 0
+"925" "1999" "Equatorial Guinea" 0
+"926" "2000" "Equatorial Guinea" 0
+"927" "2001" "Equatorial Guinea" 0
+"928" "2002" "Equatorial Guinea" 0
+"929" "2003" "Equatorial Guinea" 0
+"930" "2004" "Equatorial Guinea" 0
+"931" "2005" "Equatorial Guinea" 0
+"932" "2006" "Equatorial Guinea" 0
+"933" "2007" "Equatorial Guinea" 0
+"934" "2008" "Equatorial Guinea" 0
+"935" "2009" "Equatorial Guinea" 1
+"936" "2010" "Equatorial Guinea" 0
+"937" "1992" "Eritrea" 0
+"938" "1994" "Eritrea" 0
+"939" "1995" "Eritrea" 2
+"940" "1996" "Eritrea" 1
+"941" "1997" "Eritrea" 0
+"942" "1998" "Eritrea" 0
+"943" "1999" "Eritrea" 0
+"944" "2000" "Eritrea" 0
+"945" "2001" "Eritrea" 0
+"946" "2002" "Eritrea" 0
+"947" "2003" "Eritrea" 0
+"948" "2004" "Eritrea" 0
+"949" "2005" "Eritrea" 0
+"950" "2006" "Eritrea" 0
+"951" "2007" "Eritrea" 2
+"952" "2008" "Eritrea" 2
+"953" "2009" "Eritrea" 1
+"954" "2010" "Eritrea" 1
+"955" "1992" "Estonia" 2
+"956" "1994" "Estonia" 6
+"957" "1995" "Estonia" 2
+"958" "1996" "Estonia" 1
+"959" "1997" "Estonia" 0
+"960" "1998" "Estonia" 0
+"961" "1999" "Estonia" 1
+"962" "2000" "Estonia" 0
+"963" "2001" "Estonia" 1
+"964" "2002" "Estonia" 0
+"965" "2003" "Estonia" 0
+"966" "2004" "Estonia" 0
+"967" "2005" "Estonia" 0
+"968" "2006" "Estonia" 0
+"969" "2007" "Estonia" 0
+"970" "2008" "Estonia" 0
+"971" "2009" "Estonia" 0
+"972" "2010" "Estonia" 0
+"973" "1992" "Ethiopia" 13
+"974" "1994" "Ethiopia" 4
+"975" "1995" "Ethiopia" 5
+"976" "1996" "Ethiopia" 7
+"977" "1997" "Ethiopia" 6
+"978" "1998" "Ethiopia" 0
+"979" "1999" "Ethiopia" 2
+"980" "2000" "Ethiopia" 1
+"981" "2001" "Ethiopia" 0
+"982" "2002" "Ethiopia" 3
+"983" "2003" "Ethiopia" 1
+"984" "2004" "Ethiopia" 2
+"985" "2005" "Ethiopia" 5
+"986" "2006" "Ethiopia" 11
+"987" "2007" "Ethiopia" 5
+"988" "2008" "Ethiopia" 8
+"989" "2009" "Ethiopia" 2
+"990" "2010" "Ethiopia" 2
+"991" "1992" "Fiji" 1
+"992" "1994" "Fiji" 0
+"993" "1995" "Fiji" 0
+"994" "1996" "Fiji" 0
+"995" "1997" "Fiji" 0
+"996" "1998" "Fiji" 0
+"997" "1999" "Fiji" 3
+"998" "2000" "Fiji" 4
+"999" "2001" "Fiji" 1
+"1000" "2002" "Fiji" 0
+"1001" "2003" "Fiji" 0
+"1002" "2004" "Fiji" 0
+"1003" "2005" "Fiji" 0
+"1004" "2006" "Fiji" 0
+"1005" "2007" "Fiji" 0
+"1006" "2008" "Fiji" 0
+"1007" "2009" "Fiji" 0
+"1008" "2010" "Fiji" 0
+"1009" "1992" "Finland" 1
+"1010" "1994" "Finland" 1
+"1011" "1995" "Finland" 1
+"1012" "1996" "Finland" 0
+"1013" "1997" "Finland" 0
+"1014" "1998" "Finland" 0
+"1015" "1999" "Finland" 0
+"1016" "2000" "Finland" 0
+"1017" "2001" "Finland" 0
+"1018" "2002" "Finland" 0
+"1019" "2003" "Finland" 0
+"1020" "2004" "Finland" 0
+"1021" "2005" "Finland" 0
+"1022" "2006" "Finland" 0
+"1023" "2007" "Finland" 1
+"1024" "2008" "Finland" 1
+"1025" "2009" "Finland" 0
+"1026" "2010" "Finland" 0
+"1027" "1992" "France" 126
+"1028" "1994" "France" 97
+"1029" "1995" "France" 71
+"1030" "1996" "France" 270
+"1031" "1997" "France" 130
+"1032" "1998" "France" 12
+"1033" "1999" "France" 46
+"1034" "2000" "France" 28
+"1035" "2001" "France" 21
+"1036" "2002" "France" 32
+"1037" "2003" "France" 34
+"1038" "2004" "France" 11
+"1039" "2005" "France" 33
+"1040" "2006" "France" 34
+"1041" "2007" "France" 16
+"1042" "2008" "France" 13
+"1043" "2009" "France" 9
+"1044" "2010" "France" 3
+"1045" "1992" "French Guiana" 0
+"1046" "1994" "French Guiana" 0
+"1047" "1995" "French Guiana" 0
+"1048" "1996" "French Guiana" 2
+"1049" "1997" "French Guiana" 2
+"1050" "1998" "French Guiana" 0
+"1051" "1999" "French Guiana" 0
+"1052" "2000" "French Guiana" 0
+"1053" "2001" "French Guiana" 0
+"1054" "2002" "French Guiana" 0
+"1055" "2003" "French Guiana" 0
+"1056" "2004" "French Guiana" 0
+"1057" "2005" "French Guiana" 0
+"1058" "2006" "French Guiana" 0
+"1059" "2007" "French Guiana" 0
+"1060" "2008" "French Guiana" 0
+"1061" "2009" "French Guiana" 0
+"1062" "2010" "French Guiana" 0
+"1063" "1992" "French Polynesia" 0
+"1064" "1994" "French Polynesia" 0
+"1065" "1995" "French Polynesia" 3
+"1066" "1996" "French Polynesia" 0
+"1067" "1997" "French Polynesia" 0
+"1068" "1998" "French Polynesia" 0
+"1069" "1999" "French Polynesia" 0
+"1070" "2000" "French Polynesia" 0
+"1071" "2001" "French Polynesia" 0
+"1072" "2002" "French Polynesia" 0
+"1073" "2003" "French Polynesia" 0
+"1074" "2004" "French Polynesia" 0
+"1075" "2005" "French Polynesia" 0
+"1076" "2006" "French Polynesia" 0
+"1077" "2007" "French Polynesia" 0
+"1078" "2008" "French Polynesia" 0
+"1079" "2009" "French Polynesia" 0
+"1080" "2010" "French Polynesia" 0
+"1081" "1992" "Gabon" 0
+"1082" "1994" "Gabon" 1
+"1083" "1995" "Gabon" 0
+"1084" "1996" "Gabon" 1
+"1085" "1997" "Gabon" 1
+"1086" "1998" "Gabon" 0
+"1087" "1999" "Gabon" 0
+"1088" "2000" "Gabon" 0
+"1089" "2001" "Gabon" 0
+"1090" "2002" "Gabon" 0
+"1091" "2003" "Gabon" 0
+"1092" "2004" "Gabon" 0
+"1093" "2005" "Gabon" 0
+"1094" "2006" "Gabon" 0
+"1095" "2007" "Gabon" 0
+"1096" "2008" "Gabon" 0
+"1097" "2009" "Gabon" 0
+"1098" "2010" "Gabon" 0
+"1099" "1992" "Gambia" 0
+"1100" "1994" "Gambia" 1
+"1101" "1995" "Gambia" 1
+"1102" "1996" "Gambia" 0
+"1103" "1997" "Gambia" 0
+"1104" "1998" "Gambia" 0
+"1105" "1999" "Gambia" 0
+"1106" "2000" "Gambia" 1
+"1107" "2001" "Gambia" 0
+"1108" "2002" "Gambia" 0
+"1109" "2003" "Gambia" 0
+"1110" "2004" "Gambia" 0
+"1111" "2005" "Gambia" 0
+"1112" "2006" "Gambia" 0
+"1113" "2007" "Gambia" 0
+"1114" "2008" "Gambia" 0
+"1115" "2009" "Gambia" 0
+"1116" "2010" "Gambia" 0
+"1117" "1992" "Georgia" 39
+"1118" "1994" "Georgia" 18
+"1119" "1995" "Georgia" 17
+"1120" "1996" "Georgia" 3
+"1121" "1997" "Georgia" 6
+"1122" "1998" "Georgia" 12
+"1123" "1999" "Georgia" 7
+"1124" "2000" "Georgia" 7
+"1125" "2001" "Georgia" 4
+"1126" "2002" "Georgia" 2
+"1127" "2003" "Georgia" 6
+"1128" "2004" "Georgia" 3
+"1129" "2005" "Georgia" 6
+"1130" "2006" "Georgia" 3
+"1131" "2007" "Georgia" 0
+"1132" "2008" "Georgia" 33
+"1133" "2009" "Georgia" 25
+"1134" "2010" "Georgia" 7
+"1135" "1992" "Germany" 156
+"1136" "1994" "Germany" 79
+"1137" "1995" "Germany" 147
+"1138" "1996" "Germany" 52
+"1139" "1997" "Germany" 12
+"1140" "1998" "Germany" 6
+"1141" "1999" "Germany" 13
+"1142" "2000" "Germany" 8
+"1143" "2001" "Germany" 8
+"1144" "2002" "Germany" 3
+"1145" "2003" "Germany" 2
+"1146" "2004" "Germany" 3
+"1147" "2005" "Germany" 3
+"1148" "2006" "Germany" 4
+"1149" "2007" "Germany" 3
+"1150" "2008" "Germany" 3
+"1151" "2009" "Germany" 4
+"1152" "2010" "Germany" 1
+"1153" "1992" "Ghana" 8
+"1154" "1994" "Ghana" 4
+"1155" "1995" "Ghana" 1
+"1156" "1996" "Ghana" 2
+"1157" "1997" "Ghana" 1
+"1158" "1998" "Ghana" 0
+"1159" "1999" "Ghana" 0
+"1160" "2000" "Ghana" 0
+"1161" "2001" "Ghana" 0
+"1162" "2002" "Ghana" 0
+"1163" "2003" "Ghana" 0
+"1164" "2004" "Ghana" 0
+"1165" "2005" "Ghana" 0
+"1166" "2006" "Ghana" 0
+"1167" "2007" "Ghana" 0
+"1168" "2008" "Ghana" 0
+"1169" "2009" "Ghana" 0
+"1170" "2010" "Ghana" 0
+"1171" "1992" "Greece" 35
+"1172" "1994" "Greece" 42
+"1173" "1995" "Greece" 8
+"1174" "1996" "Greece" 20
+"1175" "1997" "Greece" 21
+"1176" "1998" "Greece" 28
+"1177" "1999" "Greece" 35
+"1178" "2000" "Greece" 28
+"1179" "2001" "Greece" 14
+"1180" "2002" "Greece" 11
+"1181" "2003" "Greece" 12
+"1182" "2004" "Greece" 4
+"1183" "2005" "Greece" 6
+"1184" "2006" "Greece" 23
+"1185" "2007" "Greece" 15
+"1186" "2008" "Greece" 53
+"1187" "2009" "Greece" 115
+"1188" "2010" "Greece" 49
+"1189" "1992" "Guatemala" 48
+"1190" "1994" "Guatemala" 84
+"1191" "1995" "Guatemala" 82
+"1192" "1996" "Guatemala" 26
+"1193" "1997" "Guatemala" 26
+"1194" "1998" "Guatemala" 0
+"1195" "1999" "Guatemala" 1
+"1196" "2000" "Guatemala" 1
+"1197" "2001" "Guatemala" 2
+"1198" "2002" "Guatemala" 0
+"1199" "2003" "Guatemala" 3
+"1200" "2004" "Guatemala" 2
+"1201" "2005" "Guatemala" 0
+"1202" "2006" "Guatemala" 4
+"1203" "2007" "Guatemala" 0
+"1204" "2008" "Guatemala" 0
+"1205" "2009" "Guatemala" 0
+"1206" "2010" "Guatemala" 0
+"1207" "1992" "Guinea" 2
+"1208" "1994" "Guinea" 2
+"1209" "1995" "Guinea" 0
+"1210" "1996" "Guinea" 1
+"1211" "1997" "Guinea" 0
+"1212" "1998" "Guinea" 0
+"1213" "1999" "Guinea" 0
+"1214" "2000" "Guinea" 12
+"1215" "2001" "Guinea" 0
+"1216" "2002" "Guinea" 0
+"1217" "2003" "Guinea" 0
+"1218" "2004" "Guinea" 0
+"1219" "2005" "Guinea" 1
+"1220" "2006" "Guinea" 0
+"1221" "2007" "Guinea" 0
+"1222" "2008" "Guinea" 0
+"1223" "2009" "Guinea" 0
+"1224" "2010" "Guinea" 0
+"1225" "1992" "Guinea-Bissau" 0
+"1226" "1994" "Guinea-Bissau" 0
+"1227" "1995" "Guinea-Bissau" 0
+"1228" "1996" "Guinea-Bissau" 0
+"1229" "1997" "Guinea-Bissau" 0
+"1230" "1998" "Guinea-Bissau" 0
+"1231" "1999" "Guinea-Bissau" 0
+"1232" "2000" "Guinea-Bissau" 0
+"1233" "2001" "Guinea-Bissau" 1
+"1234" "2002" "Guinea-Bissau" 0
+"1235" "2003" "Guinea-Bissau" 1
+"1236" "2004" "Guinea-Bissau" 0
+"1237" "2005" "Guinea-Bissau" 4
+"1238" "2006" "Guinea-Bissau" 1
+"1239" "2007" "Guinea-Bissau" 0
+"1240" "2008" "Guinea-Bissau" 0
+"1241" "2009" "Guinea-Bissau" 1
+"1242" "2010" "Guinea-Bissau" 0
+"1243" "1992" "Guyana" 4
+"1244" "1994" "Guyana" 0
+"1245" "1995" "Guyana" 0
+"1246" "1996" "Guyana" 0
+"1247" "1997" "Guyana" 1
+"1248" "1998" "Guyana" 2
+"1249" "1999" "Guyana" 0
+"1250" "2000" "Guyana" 0
+"1251" "2001" "Guyana" 1
+"1252" "2002" "Guyana" 1
+"1253" "2003" "Guyana" 1
+"1254" "2004" "Guyana" 0
+"1255" "2005" "Guyana" 0
+"1256" "2006" "Guyana" 2
+"1257" "2007" "Guyana" 0
+"1258" "2008" "Guyana" 3
+"1259" "2009" "Guyana" 0
+"1260" "2010" "Guyana" 0
+"1261" "1992" "Haiti" 27
+"1262" "1994" "Haiti" 27
+"1263" "1995" "Haiti" 34
+"1264" "1996" "Haiti" 27
+"1265" "1997" "Haiti" 16
+"1266" "1998" "Haiti" 1
+"1267" "1999" "Haiti" 5
+"1268" "2000" "Haiti" 9
+"1269" "2001" "Haiti" 5
+"1270" "2002" "Haiti" 2
+"1271" "2003" "Haiti" 5
+"1272" "2004" "Haiti" 2
+"1273" "2005" "Haiti" 1
+"1274" "2006" "Haiti" 1
+"1275" "2007" "Haiti" 2
+"1276" "2008" "Haiti" 0
+"1277" "2009" "Haiti" 0
+"1278" "2010" "Haiti" 0
+"1279" "1992" "Honduras" 12
+"1280" "1994" "Honduras" 6
+"1281" "1995" "Honduras" 12
+"1282" "1996" "Honduras" 19
+"1283" "1997" "Honduras" 22
+"1284" "1998" "Honduras" 0
+"1285" "1999" "Honduras" 0
+"1286" "2000" "Honduras" 0
+"1287" "2001" "Honduras" 0
+"1288" "2002" "Honduras" 1
+"1289" "2003" "Honduras" 0
+"1290" "2004" "Honduras" 1
+"1291" "2005" "Honduras" 0
+"1292" "2006" "Honduras" 0
+"1293" "2007" "Honduras" 0
+"1294" "2008" "Honduras" 0
+"1295" "2009" "Honduras" 8
+"1296" "2010" "Honduras" 0
+"1297" "1992" "Hong Kong" 6
+"1298" "1994" "Hong Kong" 4
+"1299" "1995" "Hong Kong" 1
+"1300" "1996" "Hong Kong" 3
+"1301" "1997" "Hong Kong" 0
+"1302" "1998" "Hong Kong" 0
+"1303" "1999" "Hong Kong" 0
+"1304" "2000" "Hong Kong" 2
+"1305" "2001" "Hong Kong" 1
+"1306" "2002" "Hong Kong" 0
+"1307" "2003" "Hong Kong" 0
+"1308" "2004" "Hong Kong" 0
+"1309" "2005" "Hong Kong" 1
+"1310" "2006" "Hong Kong" 0
+"1311" "2007" "Hong Kong" 0
+"1312" "2008" "Hong Kong" 1
+"1313" "2009" "Hong Kong" 0
+"1314" "2010" "Hong Kong" 0
+"1315" "1992" "Hungary" 1
+"1316" "1994" "Hungary" 2
+"1317" "1995" "Hungary" 0
+"1318" "1996" "Hungary" 13
+"1319" "1997" "Hungary" 17
+"1320" "1998" "Hungary" 2
+"1321" "1999" "Hungary" 0
+"1322" "2000" "Hungary" 0
+"1323" "2001" "Hungary" 1
+"1324" "2002" "Hungary" 0
+"1325" "2003" "Hungary" 0
+"1326" "2004" "Hungary" 0
+"1327" "2005" "Hungary" 0
+"1328" "2006" "Hungary" 0
+"1329" "2007" "Hungary" 0
+"1330" "2008" "Hungary" 2
+"1331" "2009" "Hungary" 1
+"1332" "2010" "Hungary" 0
+"1333" "1992" "India" 239
+"1334" "1994" "India" 107
+"1335" "1995" "India" 179
+"1336" "1996" "India" 211
+"1337" "1997" "India" 193
+"1338" "1998" "India" 61
+"1339" "1999" "India" 112
+"1340" "2000" "India" 179
+"1341" "2001" "India" 234
+"1342" "2002" "India" 183
+"1343" "2003" "India" 196
+"1344" "2004" "India" 108
+"1345" "2005" "India" 145
+"1346" "2006" "India" 166
+"1347" "2007" "India" 154
+"1348" "2008" "India" 517
+"1349" "2009" "India" 673
+"1350" "2010" "India" 662
+"1351" "1992" "Indonesia" 4
+"1352" "1994" "Indonesia" 5
+"1353" "1995" "Indonesia" 24
+"1354" "1996" "Indonesia" 65
+"1355" "1997" "Indonesia" 28
+"1356" "1998" "Indonesia" 3
+"1357" "1999" "Indonesia" 61
+"1358" "2000" "Indonesia" 101
+"1359" "2001" "Indonesia" 105
+"1360" "2002" "Indonesia" 43
+"1361" "2003" "Indonesia" 18
+"1362" "2004" "Indonesia" 17
+"1363" "2005" "Indonesia" 15
+"1364" "2006" "Indonesia" 10
+"1365" "2007" "Indonesia" 2
+"1366" "2008" "Indonesia" 13
+"1367" "2009" "Indonesia" 19
+"1368" "2010" "Indonesia" 4
+"1369" "1992" "International" 0
+"1370" "1994" "International" 0
+"1371" "1995" "International" 0
+"1372" "1996" "International" 0
+"1373" "1997" "International" 0
+"1374" "1998" "International" 0
+"1375" "1999" "International" 0
+"1376" "2000" "International" 0
+"1377" "2001" "International" 0
+"1378" "2002" "International" 1
+"1379" "2003" "International" 0
+"1380" "2004" "International" 0
+"1381" "2005" "International" 0
+"1382" "2006" "International" 0
+"1383" "2007" "International" 0
+"1384" "2008" "International" 0
+"1385" "2009" "International" 0
+"1386" "2010" "International" 0
+"1387" "1992" "Iran" 16
+"1388" "1994" "Iran" 43
+"1389" "1995" "Iran" 8
+"1390" "1996" "Iran" 3
+"1391" "1997" "Iran" 2
+"1392" "1998" "Iran" 5
+"1393" "1999" "Iran" 8
+"1394" "2000" "Iran" 15
+"1395" "2001" "Iran" 4
+"1396" "2002" "Iran" 0
+"1397" "2003" "Iran" 2
+"1398" "2004" "Iran" 0
+"1399" "2005" "Iran" 5
+"1400" "2006" "Iran" 14
+"1401" "2007" "Iran" 9
+"1402" "2008" "Iran" 8
+"1403" "2009" "Iran" 15
+"1404" "2010" "Iran" 14
+"1405" "1992" "Iraq" 34
+"1406" "1994" "Iraq" 18
+"1407" "1995" "Iraq" 17
+"1408" "1996" "Iraq" 12
+"1409" "1997" "Iraq" 21
+"1410" "1998" "Iraq" 6
+"1411" "1999" "Iraq" 12
+"1412" "2000" "Iraq" 10
+"1413" "2001" "Iraq" 3
+"1414" "2002" "Iraq" 6
+"1415" "2003" "Iraq" 87
+"1416" "2004" "Iraq" 319
+"1417" "2005" "Iraq" 618
+"1418" "2006" "Iraq" 837
+"1419" "2007" "Iraq" 1042
+"1420" "2008" "Iraq" 1104
+"1421" "2009" "Iraq" 1137
+"1422" "2010" "Iraq" 1179
+"1423" "1992" "Ireland" 7
+"1424" "1994" "Ireland" 10
+"1425" "1995" "Ireland" 3
+"1426" "1996" "Ireland" 1
+"1427" "1997" "Ireland" 4
+"1428" "1998" "Ireland" 3
+"1429" "1999" "Ireland" 3
+"1430" "2000" "Ireland" 0
+"1431" "2001" "Ireland" 2
+"1432" "2002" "Ireland" 0
+"1433" "2003" "Ireland" 1
+"1434" "2004" "Ireland" 0
+"1435" "2005" "Ireland" 0
+"1436" "2006" "Ireland" 1
+"1437" "2007" "Ireland" 1
+"1438" "2008" "Ireland" 5
+"1439" "2009" "Ireland" 0
+"1440" "2010" "Ireland" 4
+"1441" "1992" "Israel" 78
+"1442" "1994" "Israel" 54
+"1443" "1995" "Israel" 12
+"1444" "1996" "Israel" 17
+"1445" "1997" "Israel" 13
+"1446" "1998" "Israel" 14
+"1447" "1999" "Israel" 8
+"1448" "2000" "Israel" 15
+"1449" "2001" "Israel" 79
+"1450" "2002" "Israel" 75
+"1451" "2003" "Israel" 37
+"1452" "2004" "Israel" 18
+"1453" "2005" "Israel" 43
+"1454" "2006" "Israel" 78
+"1455" "2007" "Israel" 53
+"1456" "2008" "Israel" 130
+"1457" "2009" "Israel" 36
+"1458" "2010" "Israel" 14
+"1459" "1992" "Italy" 37
+"1460" "1994" "Italy" 18
+"1461" "1995" "Italy" 1
+"1462" "1996" "Italy" 8
+"1463" "1997" "Italy" 8
+"1464" "1998" "Italy" 6
+"1465" "1999" "Italy" 7
+"1466" "2000" "Italy" 8
+"1467" "2001" "Italy" 11
+"1468" "2002" "Italy" 7
+"1469" "2003" "Italy" 15
+"1470" "2004" "Italy" 3
+"1471" "2005" "Italy" 6
+"1472" "2006" "Italy" 4
+"1473" "2007" "Italy" 0
+"1474" "2008" "Italy" 2
+"1475" "2009" "Italy" 4
+"1476" "2010" "Italy" 10
+"1477" "1992" "Ivory Coast" 3
+"1478" "1994" "Ivory Coast" 2
+"1479" "1995" "Ivory Coast" 7
+"1480" "1996" "Ivory Coast" 2
+"1481" "1997" "Ivory Coast" 1
+"1482" "1998" "Ivory Coast" 0
+"1483" "1999" "Ivory Coast" 0
+"1484" "2000" "Ivory Coast" 2
+"1485" "2001" "Ivory Coast" 1
+"1486" "2002" "Ivory Coast" 1
+"1487" "2003" "Ivory Coast" 0
+"1488" "2004" "Ivory Coast" 1
+"1489" "2005" "Ivory Coast" 1
+"1490" "2006" "Ivory Coast" 3
+"1491" "2007" "Ivory Coast" 1
+"1492" "2008" "Ivory Coast" 0
+"1493" "2009" "Ivory Coast" 0
+"1494" "2010" "Ivory Coast" 7
+"1495" "1992" "Jamaica" 6
+"1496" "1994" "Jamaica" 2
+"1497" "1995" "Jamaica" 1
+"1498" "1996" "Jamaica" 1
+"1499" "1997" "Jamaica" 8
+"1500" "1998" "Jamaica" 0
+"1501" "1999" "Jamaica" 0
+"1502" "2000" "Jamaica" 0
+"1503" "2001" "Jamaica" 0
+"1504" "2002" "Jamaica" 0
+"1505" "2003" "Jamaica" 0
+"1506" "2004" "Jamaica" 0
+"1507" "2005" "Jamaica" 0
+"1508" "2006" "Jamaica" 0
+"1509" "2007" "Jamaica" 1
+"1510" "2008" "Jamaica" 0
+"1511" "2009" "Jamaica" 0
+"1512" "2010" "Jamaica" 0
+"1513" "1992" "Japan" 40
+"1514" "1994" "Japan" 9
+"1515" "1995" "Japan" 20
+"1516" "1996" "Japan" 8
+"1517" "1997" "Japan" 5
+"1518" "1998" "Japan" 1
+"1519" "1999" "Japan" 2
+"1520" "2000" "Japan" 13
+"1521" "2001" "Japan" 3
+"1522" "2002" "Japan" 2
+"1523" "2003" "Japan" 2
+"1524" "2004" "Japan" 0
+"1525" "2005" "Japan" 0
+"1526" "2006" "Japan" 0
+"1527" "2007" "Japan" 0
+"1528" "2008" "Japan" 3
+"1529" "2009" "Japan" 1
+"1530" "2010" "Japan" 0
+"1531" "1992" "Jordan" 2
+"1532" "1994" "Jordan" 6
+"1533" "1995" "Jordan" 3
+"1534" "1996" "Jordan" 2
+"1535" "1997" "Jordan" 3
+"1536" "1998" "Jordan" 1
+"1537" "1999" "Jordan" 2
+"1538" "2000" "Jordan" 2
+"1539" "2001" "Jordan" 2
+"1540" "2002" "Jordan" 2
+"1541" "2003" "Jordan" 0
+"1542" "2004" "Jordan" 0
+"1543" "2005" "Jordan" 4
+"1544" "2006" "Jordan" 1
+"1545" "2007" "Jordan" 0
+"1546" "2008" "Jordan" 0
+"1547" "2009" "Jordan" 0
+"1548" "2010" "Jordan" 2
+"1549" "1992" "Kazakhstan" 5
+"1550" "1994" "Kazakhstan" 1
+"1551" "1995" "Kazakhstan" 0
+"1552" "1996" "Kazakhstan" 0
+"1553" "1997" "Kazakhstan" 2
+"1554" "1998" "Kazakhstan" 0
+"1555" "1999" "Kazakhstan" 0
+"1556" "2000" "Kazakhstan" 1
+"1557" "2001" "Kazakhstan" 1
+"1558" "2002" "Kazakhstan" 0
+"1559" "2003" "Kazakhstan" 0
+"1560" "2004" "Kazakhstan" 0
+"1561" "2005" "Kazakhstan" 0
+"1562" "2006" "Kazakhstan" 0
+"1563" "2007" "Kazakhstan" 0
+"1564" "2008" "Kazakhstan" 1
+"1565" "2009" "Kazakhstan" 0
+"1566" "2010" "Kazakhstan" 0
+"1567" "1992" "Kenya" 30
+"1568" "1994" "Kenya" 5
+"1569" "1995" "Kenya" 4
+"1570" "1996" "Kenya" 3
+"1571" "1997" "Kenya" 17
+"1572" "1998" "Kenya" 2
+"1573" "1999" "Kenya" 0
+"1574" "2000" "Kenya" 4
+"1575" "2001" "Kenya" 7
+"1576" "2002" "Kenya" 2
+"1577" "2003" "Kenya" 2
+"1578" "2004" "Kenya" 0
+"1579" "2005" "Kenya" 2
+"1580" "2006" "Kenya" 2
+"1581" "2007" "Kenya" 12
+"1582" "2008" "Kenya" 10
+"1583" "2009" "Kenya" 1
+"1584" "2010" "Kenya" 12
+"1585" "1992" "Kosovo" 0
+"1586" "1994" "Kosovo" 0
+"1587" "1995" "Kosovo" 0
+"1588" "1996" "Kosovo" 0
+"1589" "1997" "Kosovo" 0
+"1590" "1998" "Kosovo" 0
+"1591" "1999" "Kosovo" 39
+"1592" "2000" "Kosovo" 60
+"1593" "2001" "Kosovo" 17
+"1594" "2002" "Kosovo" 5
+"1595" "2003" "Kosovo" 9
+"1596" "2004" "Kosovo" 1
+"1597" "2005" "Kosovo" 8
+"1598" "2006" "Kosovo" 6
+"1599" "2007" "Kosovo" 5
+"1600" "2008" "Kosovo" 11
+"1601" "2009" "Kosovo" 1
+"1602" "2010" "Kosovo" 1
+"1603" "1992" "Kuwait" 15
+"1604" "1994" "Kuwait" 2
+"1605" "1995" "Kuwait" 0
+"1606" "1996" "Kuwait" 0
+"1607" "1997" "Kuwait" 2
+"1608" "1998" "Kuwait" 0
+"1609" "1999" "Kuwait" 0
+"1610" "2000" "Kuwait" 0
+"1611" "2001" "Kuwait" 2
+"1612" "2002" "Kuwait" 1
+"1613" "2003" "Kuwait" 3
+"1614" "2004" "Kuwait" 0
+"1615" "2005" "Kuwait" 2
+"1616" "2006" "Kuwait" 0
+"1617" "2007" "Kuwait" 0
+"1618" "2008" "Kuwait" 0
+"1619" "2009" "Kuwait" 0
+"1620" "2010" "Kuwait" 0
+"1621" "1992" "Kyrgyzstan" 0
+"1622" "1994" "Kyrgyzstan" 0
+"1623" "1995" "Kyrgyzstan" 0
+"1624" "1996" "Kyrgyzstan" 5
+"1625" "1997" "Kyrgyzstan" 0
+"1626" "1998" "Kyrgyzstan" 0
+"1627" "1999" "Kyrgyzstan" 3
+"1628" "2000" "Kyrgyzstan" 4
+"1629" "2001" "Kyrgyzstan" 1
+"1630" "2002" "Kyrgyzstan" 2
+"1631" "2003" "Kyrgyzstan" 1
+"1632" "2004" "Kyrgyzstan" 0
+"1633" "2005" "Kyrgyzstan" 2
+"1634" "2006" "Kyrgyzstan" 3
+"1635" "2007" "Kyrgyzstan" 1
+"1636" "2008" "Kyrgyzstan" 0
+"1637" "2009" "Kyrgyzstan" 0
+"1638" "2010" "Kyrgyzstan" 1
+"1639" "1992" "Laos" 4
+"1640" "1994" "Laos" 1
+"1641" "1995" "Laos" 0
+"1642" "1996" "Laos" 1
+"1643" "1997" "Laos" 0
+"1644" "1998" "Laos" 0
+"1645" "1999" "Laos" 0
+"1646" "2000" "Laos" 8
+"1647" "2001" "Laos" 1
+"1648" "2002" "Laos" 0
+"1649" "2003" "Laos" 2
+"1650" "2004" "Laos" 0
+"1651" "2005" "Laos" 0
+"1652" "2006" "Laos" 0
+"1653" "2007" "Laos" 0
+"1654" "2008" "Laos" 0
+"1655" "2009" "Laos" 0
+"1656" "2010" "Laos" 0
+"1657" "1992" "Latvia" 2
+"1658" "1994" "Latvia" 2
+"1659" "1995" "Latvia" 1
+"1660" "1996" "Latvia" 0
+"1661" "1997" "Latvia" 2
+"1662" "1998" "Latvia" 4
+"1663" "1999" "Latvia" 1
+"1664" "2000" "Latvia" 3
+"1665" "2001" "Latvia" 0
+"1666" "2002" "Latvia" 0
+"1667" "2003" "Latvia" 0
+"1668" "2004" "Latvia" 0
+"1669" "2005" "Latvia" 0
+"1670" "2006" "Latvia" 0
+"1671" "2007" "Latvia" 1
+"1672" "2008" "Latvia" 0
+"1673" "2009" "Latvia" 0
+"1674" "2010" "Latvia" 0
+"1675" "1992" "Lebanon" 91
+"1676" "1994" "Lebanon" 67
+"1677" "1995" "Lebanon" 38
+"1678" "1996" "Lebanon" 41
+"1679" "1997" "Lebanon" 46
+"1680" "1998" "Lebanon" 23
+"1681" "1999" "Lebanon" 42
+"1682" "2000" "Lebanon" 12
+"1683" "2001" "Lebanon" 5
+"1684" "2002" "Lebanon" 8
+"1685" "2003" "Lebanon" 5
+"1686" "2004" "Lebanon" 2
+"1687" "2005" "Lebanon" 17
+"1688" "2006" "Lebanon" 7
+"1689" "2007" "Lebanon" 18
+"1690" "2008" "Lebanon" 58
+"1691" "2009" "Lebanon" 14
+"1692" "2010" "Lebanon" 5
+"1693" "1992" "Lesotho" 0
+"1694" "1994" "Lesotho" 3
+"1695" "1995" "Lesotho" 0
+"1696" "1996" "Lesotho" 0
+"1697" "1997" "Lesotho" 0
+"1698" "1998" "Lesotho" 0
+"1699" "1999" "Lesotho" 0
+"1700" "2000" "Lesotho" 0
+"1701" "2001" "Lesotho" 0
+"1702" "2002" "Lesotho" 0
+"1703" "2003" "Lesotho" 0
+"1704" "2004" "Lesotho" 0
+"1705" "2005" "Lesotho" 0
+"1706" "2006" "Lesotho" 1
+"1707" "2007" "Lesotho" 0
+"1708" "2008" "Lesotho" 0
+"1709" "2009" "Lesotho" 1
+"1710" "2010" "Lesotho" 0
+"1711" "1992" "Liberia" 10
+"1712" "1994" "Liberia" 3
+"1713" "1995" "Liberia" 0
+"1714" "1996" "Liberia" 1
+"1715" "1997" "Liberia" 0
+"1716" "1998" "Liberia" 0
+"1717" "1999" "Liberia" 2
+"1718" "2000" "Liberia" 1
+"1719" "2001" "Liberia" 3
+"1720" "2002" "Liberia" 3
+"1721" "2003" "Liberia" 2
+"1722" "2004" "Liberia" 0
+"1723" "2005" "Liberia" 0
+"1724" "2006" "Liberia" 0
+"1725" "2007" "Liberia" 0
+"1726" "2008" "Liberia" 1
+"1727" "2009" "Liberia" 0
+"1728" "2010" "Liberia" 0
+"1729" "1992" "Libya" 1
+"1730" "1994" "Libya" 0
+"1731" "1995" "Libya" 1
+"1732" "1996" "Libya" 4
+"1733" "1997" "Libya" 0
+"1734" "1998" "Libya" 0
+"1735" "1999" "Libya" 0
+"1736" "2000" "Libya" 0
+"1737" "2001" "Libya" 0
+"1738" "2002" "Libya" 0
+"1739" "2003" "Libya" 0
+"1740" "2004" "Libya" 0
+"1741" "2005" "Libya" 0
+"1742" "2006" "Libya" 0
+"1743" "2007" "Libya" 1
+"1744" "2008" "Libya" 1
+"1745" "2009" "Libya" 0
+"1746" "2010" "Libya" 0
+"1747" "1992" "Lithuania" 1
+"1748" "1994" "Lithuania" 0
+"1749" "1995" "Lithuania" 2
+"1750" "1996" "Lithuania" 3
+"1751" "1997" "Lithuania" 1
+"1752" "1998" "Lithuania" 0
+"1753" "1999" "Lithuania" 0
+"1754" "2000" "Lithuania" 0
+"1755" "2001" "Lithuania" 0
+"1756" "2002" "Lithuania" 0
+"1757" "2003" "Lithuania" 0
+"1758" "2004" "Lithuania" 0
+"1759" "2005" "Lithuania" 0
+"1760" "2006" "Lithuania" 0
+"1761" "2007" "Lithuania" 0
+"1762" "2008" "Lithuania" 0
+"1763" "2009" "Lithuania" 0
+"1764" "2010" "Lithuania" 0
+"1765" "1992" "Luxembourg" 0
+"1766" "1994" "Luxembourg" 3
+"1767" "1995" "Luxembourg" 0
+"1768" "1996" "Luxembourg" 0
+"1769" "1997" "Luxembourg" 0
+"1770" "1998" "Luxembourg" 0
+"1771" "1999" "Luxembourg" 0
+"1772" "2000" "Luxembourg" 0
+"1773" "2001" "Luxembourg" 0
+"1774" "2002" "Luxembourg" 0
+"1775" "2003" "Luxembourg" 0
+"1776" "2004" "Luxembourg" 0
+"1777" "2005" "Luxembourg" 0
+"1778" "2006" "Luxembourg" 0
+"1779" "2007" "Luxembourg" 0
+"1780" "2008" "Luxembourg" 0
+"1781" "2009" "Luxembourg" 0
+"1782" "2010" "Luxembourg" 0
+"1783" "1992" "Macau" 0
+"1784" "1994" "Macau" 0
+"1785" "1995" "Macau" 1
+"1786" "1996" "Macau" 10
+"1787" "1997" "Macau" 16
+"1788" "1998" "Macau" 6
+"1789" "1999" "Macau" 0
+"1790" "2000" "Macau" 0
+"1791" "2001" "Macau" 0
+"1792" "2002" "Macau" 0
+"1793" "2003" "Macau" 0
+"1794" "2004" "Macau" 0
+"1795" "2005" "Macau" 0
+"1796" "2006" "Macau" 0
+"1797" "2007" "Macau" 0
+"1798" "2008" "Macau" 0
+"1799" "2009" "Macau" 0
+"1800" "2010" "Macau" 0
+"1801" "1992" "Macedonia" 0
+"1802" "1994" "Macedonia" 1
+"1803" "1995" "Macedonia" 1
+"1804" "1996" "Macedonia" 0
+"1805" "1997" "Macedonia" 2
+"1806" "1998" "Macedonia" 5
+"1807" "1999" "Macedonia" 3
+"1808" "2000" "Macedonia" 3
+"1809" "2001" "Macedonia" 67
+"1810" "2002" "Macedonia" 8
+"1811" "2003" "Macedonia" 5
+"1812" "2004" "Macedonia" 0
+"1813" "2005" "Macedonia" 0
+"1814" "2006" "Macedonia" 3
+"1815" "2007" "Macedonia" 1
+"1816" "2008" "Macedonia" 9
+"1817" "2009" "Macedonia" 1
+"1818" "2010" "Macedonia" 0
+"1819" "1992" "Madagascar" 7
+"1820" "1994" "Madagascar" 0
+"1821" "1995" "Madagascar" 3
+"1822" "1996" "Madagascar" 2
+"1823" "1997" "Madagascar" 1
+"1824" "1998" "Madagascar" 0
+"1825" "1999" "Madagascar" 0
+"1826" "2000" "Madagascar" 0
+"1827" "2001" "Madagascar" 0
+"1828" "2002" "Madagascar" 5
+"1829" "2003" "Madagascar" 0
+"1830" "2004" "Madagascar" 0
+"1831" "2005" "Madagascar" 0
+"1832" "2006" "Madagascar" 1
+"1833" "2007" "Madagascar" 0
+"1834" "2008" "Madagascar" 0
+"1835" "2009" "Madagascar" 1
+"1836" "2010" "Madagascar" 0
+"1837" "1992" "Malawi" 3
+"1838" "1994" "Malawi" 0
+"1839" "1995" "Malawi" 0
+"1840" "1996" "Malawi" 0
+"1841" "1997" "Malawi" 0
+"1842" "1998" "Malawi" 0
+"1843" "1999" "Malawi" 0
+"1844" "2000" "Malawi" 0
+"1845" "2001" "Malawi" 0
+"1846" "2002" "Malawi" 1
+"1847" "2003" "Malawi" 0
+"1848" "2004" "Malawi" 0
+"1849" "2005" "Malawi" 0
+"1850" "2006" "Malawi" 0
+"1851" "2007" "Malawi" 0
+"1852" "2008" "Malawi" 0
+"1853" "2009" "Malawi" 0
+"1854" "2010" "Malawi" 0
+"1855" "1992" "Malaysia" 2
+"1856" "1994" "Malaysia" 0
+"1857" "1995" "Malaysia" 0
+"1858" "1996" "Malaysia" 0
+"1859" "1997" "Malaysia" 0
+"1860" "1998" "Malaysia" 0
+"1861" "1999" "Malaysia" 0
+"1862" "2000" "Malaysia" 3
+"1863" "2001" "Malaysia" 1
+"1864" "2002" "Malaysia" 0
+"1865" "2003" "Malaysia" 0
+"1866" "2004" "Malaysia" 0
+"1867" "2005" "Malaysia" 0
+"1868" "2006" "Malaysia" 0
+"1869" "2007" "Malaysia" 0
+"1870" "2008" "Malaysia" 2
+"1871" "2009" "Malaysia" 1
+"1872" "2010" "Malaysia" 0
+"1873" "1992" "Maldives" 0
+"1874" "1994" "Maldives" 0
+"1875" "1995" "Maldives" 0
+"1876" "1996" "Maldives" 0
+"1877" "1997" "Maldives" 0
+"1878" "1998" "Maldives" 0
+"1879" "1999" "Maldives" 0
+"1880" "2000" "Maldives" 0
+"1881" "2001" "Maldives" 0
+"1882" "2002" "Maldives" 0
+"1883" "2003" "Maldives" 0
+"1884" "2004" "Maldives" 0
+"1885" "2005" "Maldives" 0
+"1886" "2006" "Maldives" 1
+"1887" "2007" "Maldives" 1
+"1888" "2008" "Maldives" 1
+"1889" "2009" "Maldives" 0
+"1890" "2010" "Maldives" 0
+"1891" "1992" "Mali" 3
+"1892" "1994" "Mali" 13
+"1893" "1995" "Mali" 1
+"1894" "1996" "Mali" 0
+"1895" "1997" "Mali" 3
+"1896" "1998" "Mali" 0
+"1897" "1999" "Mali" 0
+"1898" "2000" "Mali" 0
+"1899" "2001" "Mali" 0
+"1900" "2002" "Mali" 0
+"1901" "2003" "Mali" 0
+"1902" "2004" "Mali" 0
+"1903" "2005" "Mali" 1
+"1904" "2006" "Mali" 0
+"1905" "2007" "Mali" 5
+"1906" "2008" "Mali" 9
+"1907" "2009" "Mali" 6
+"1908" "2010" "Mali" 1
+"1909" "1992" "Malta" 1
+"1910" "1994" "Malta" 0
+"1911" "1995" "Malta" 2
+"1912" "1996" "Malta" 0
+"1913" "1997" "Malta" 1
+"1914" "1998" "Malta" 0
+"1915" "1999" "Malta" 0
+"1916" "2000" "Malta" 0
+"1917" "2001" "Malta" 0
+"1918" "2002" "Malta" 0
+"1919" "2003" "Malta" 0
+"1920" "2004" "Malta" 0
+"1921" "2005" "Malta" 0
+"1922" "2006" "Malta" 0
+"1923" "2007" "Malta" 0
+"1924" "2008" "Malta" 0
+"1925" "2009" "Malta" 0
+"1926" "2010" "Malta" 0
+"1927" "1992" "Martinique" 1
+"1928" "1994" "Martinique" 0
+"1929" "1995" "Martinique" 0
+"1930" "1996" "Martinique" 0
+"1931" "1997" "Martinique" 0
+"1932" "1998" "Martinique" 0
+"1933" "1999" "Martinique" 0
+"1934" "2000" "Martinique" 0
+"1935" "2001" "Martinique" 0
+"1936" "2002" "Martinique" 0
+"1937" "2003" "Martinique" 0
+"1938" "2004" "Martinique" 0
+"1939" "2005" "Martinique" 0
+"1940" "2006" "Martinique" 0
+"1941" "2007" "Martinique" 0
+"1942" "2008" "Martinique" 0
+"1943" "2009" "Martinique" 0
+"1944" "2010" "Martinique" 0
+"1945" "1992" "Mauritania" 0
+"1946" "1994" "Mauritania" 0
+"1947" "1995" "Mauritania" 0
+"1948" "1996" "Mauritania" 1
+"1949" "1997" "Mauritania" 0
+"1950" "1998" "Mauritania" 0
+"1951" "1999" "Mauritania" 0
+"1952" "2000" "Mauritania" 0
+"1953" "2001" "Mauritania" 0
+"1954" "2002" "Mauritania" 0
+"1955" "2003" "Mauritania" 0
+"1956" "2004" "Mauritania" 1
+"1957" "2005" "Mauritania" 1
+"1958" "2006" "Mauritania" 0
+"1959" "2007" "Mauritania" 0
+"1960" "2008" "Mauritania" 2
+"1961" "2009" "Mauritania" 5
+"1962" "2010" "Mauritania" 1
+"1963" "1992" "Mexico" 6
+"1964" "1994" "Mexico" 42
+"1965" "1995" "Mexico" 29
+"1966" "1996" "Mexico" 75
+"1967" "1997" "Mexico" 95
+"1968" "1998" "Mexico" 2
+"1969" "1999" "Mexico" 1
+"1970" "2000" "Mexico" 4
+"1971" "2001" "Mexico" 7
+"1972" "2002" "Mexico" 0
+"1973" "2003" "Mexico" 1
+"1974" "2004" "Mexico" 1
+"1975" "2005" "Mexico" 1
+"1976" "2006" "Mexico" 7
+"1977" "2007" "Mexico" 10
+"1978" "2008" "Mexico" 8
+"1979" "2009" "Mexico" 1
+"1980" "2010" "Mexico" 5
+"1981" "1992" "Moldova" 11
+"1982" "1994" "Moldova" 1
+"1983" "1995" "Moldova" 0
+"1984" "1996" "Moldova" 2
+"1985" "1997" "Moldova" 1
+"1986" "1998" "Moldova" 0
+"1987" "1999" "Moldova" 0
+"1988" "2000" "Moldova" 1
+"1989" "2001" "Moldova" 0
+"1990" "2002" "Moldova" 0
+"1991" "2003" "Moldova" 0
+"1992" "2004" "Moldova" 0
+"1993" "2005" "Moldova" 0
+"1994" "2006" "Moldova" 1
+"1995" "2007" "Moldova" 0
+"1996" "2008" "Moldova" 0
+"1997" "2009" "Moldova" 1
+"1998" "2010" "Moldova" 0
+"1999" "1992" "Montenegro" 0
+"2000" "1994" "Montenegro" 0
+"2001" "1995" "Montenegro" 0
+"2002" "1996" "Montenegro" 0
+"2003" "1997" "Montenegro" 0
+"2004" "1998" "Montenegro" 0
+"2005" "1999" "Montenegro" 0
+"2006" "2000" "Montenegro" 0
+"2007" "2001" "Montenegro" 1
+"2008" "2002" "Montenegro" 0
+"2009" "2003" "Montenegro" 0
+"2010" "2004" "Montenegro" 0
+"2011" "2005" "Montenegro" 0
+"2012" "2006" "Montenegro" 0
+"2013" "2007" "Montenegro" 1
+"2014" "2008" "Montenegro" 0
+"2015" "2009" "Montenegro" 0
+"2016" "2010" "Montenegro" 0
+"2017" "1992" "Morocco" 1
+"2018" "1994" "Morocco" 2
+"2019" "1995" "Morocco" 1
+"2020" "1996" "Morocco" 2
+"2021" "1997" "Morocco" 0
+"2022" "1998" "Morocco" 0
+"2023" "1999" "Morocco" 0
+"2024" "2000" "Morocco" 0
+"2025" "2001" "Morocco" 0
+"2026" "2002" "Morocco" 0
+"2027" "2003" "Morocco" 5
+"2028" "2004" "Morocco" 0
+"2029" "2005" "Morocco" 0
+"2030" "2006" "Morocco" 0
+"2031" "2007" "Morocco" 6
+"2032" "2008" "Morocco" 0
+"2033" "2009" "Morocco" 0
+"2034" "2010" "Morocco" 0
+"2035" "1992" "Mozambique" 19
+"2036" "1994" "Mozambique" 3
+"2037" "1995" "Mozambique" 3
+"2038" "1996" "Mozambique" 0
+"2039" "1997" "Mozambique" 0
+"2040" "1998" "Mozambique" 0
+"2041" "1999" "Mozambique" 1
+"2042" "2000" "Mozambique" 3
+"2043" "2001" "Mozambique" 0
+"2044" "2002" "Mozambique" 0
+"2045" "2003" "Mozambique" 0
+"2046" "2004" "Mozambique" 0
+"2047" "2005" "Mozambique" 0
+"2048" "2006" "Mozambique" 0
+"2049" "2007" "Mozambique" 1
+"2050" "2008" "Mozambique" 0
+"2051" "2009" "Mozambique" 0
+"2052" "2010" "Mozambique" 0
+"2053" "1992" "Myanmar" 12
+"2054" "1994" "Myanmar" 8
+"2055" "1995" "Myanmar" 12
+"2056" "1996" "Myanmar" 13
+"2057" "1997" "Myanmar" 35
+"2058" "1998" "Myanmar" 0
+"2059" "1999" "Myanmar" 4
+"2060" "2000" "Myanmar" 0
+"2061" "2001" "Myanmar" 3
+"2062" "2002" "Myanmar" 4
+"2063" "2003" "Myanmar" 9
+"2064" "2004" "Myanmar" 2
+"2065" "2005" "Myanmar" 8
+"2066" "2006" "Myanmar" 2
+"2067" "2007" "Myanmar" 3
+"2068" "2008" "Myanmar" 20
+"2069" "2009" "Myanmar" 14
+"2070" "2010" "Myanmar" 11
+"2071" "1992" "Namibia" 0
+"2072" "1994" "Namibia" 1
+"2073" "1995" "Namibia" 0
+"2074" "1996" "Namibia" 0
+"2075" "1997" "Namibia" 0
+"2076" "1998" "Namibia" 0
+"2077" "1999" "Namibia" 1
+"2078" "2000" "Namibia" 21
+"2079" "2001" "Namibia" 6
+"2080" "2002" "Namibia" 0
+"2081" "2003" "Namibia" 0
+"2082" "2004" "Namibia" 0
+"2083" "2005" "Namibia" 0
+"2084" "2006" "Namibia" 0
+"2085" "2007" "Namibia" 0
+"2086" "2008" "Namibia" 0
+"2087" "2009" "Namibia" 0
+"2088" "2010" "Namibia" 0
+"2089" "1992" "Nepal" 8
+"2090" "1994" "Nepal" 3
+"2091" "1995" "Nepal" 0
+"2092" "1996" "Nepal" 5
+"2093" "1997" "Nepal" 9
+"2094" "1998" "Nepal" 0
+"2095" "1999" "Nepal" 8
+"2096" "2000" "Nepal" 23
+"2097" "2001" "Nepal" 33
+"2098" "2002" "Nepal" 58
+"2099" "2003" "Nepal" 15
+"2100" "2004" "Nepal" 62
+"2101" "2005" "Nepal" 70
+"2102" "2006" "Nepal" 83
+"2103" "2007" "Nepal" 90
+"2104" "2008" "Nepal" 121
+"2105" "2009" "Nepal" 39
+"2106" "2010" "Nepal" 38
+"2107" "1992" "Netherlands" 12
+"2108" "1994" "Netherlands" 3
+"2109" "1995" "Netherlands" 7
+"2110" "1996" "Netherlands" 6
+"2111" "1997" "Netherlands" 4
+"2112" "1998" "Netherlands" 0
+"2113" "1999" "Netherlands" 1
+"2114" "2000" "Netherlands" 1
+"2115" "2001" "Netherlands" 1
+"2116" "2002" "Netherlands" 2
+"2117" "2003" "Netherlands" 3
+"2118" "2004" "Netherlands" 1
+"2119" "2005" "Netherlands" 0
+"2120" "2006" "Netherlands" 0
+"2121" "2007" "Netherlands" 0
+"2122" "2008" "Netherlands" 1
+"2123" "2009" "Netherlands" 1
+"2124" "2010" "Netherlands" 1
+"2125" "1992" "New Caledonia" 2
+"2126" "1994" "New Caledonia" 0
+"2127" "1995" "New Caledonia" 0
+"2128" "1996" "New Caledonia" 0
+"2129" "1997" "New Caledonia" 0
+"2130" "1998" "New Caledonia" 0
+"2131" "1999" "New Caledonia" 0
+"2132" "2000" "New Caledonia" 0
+"2133" "2001" "New Caledonia" 0
+"2134" "2002" "New Caledonia" 0
+"2135" "2003" "New Caledonia" 0
+"2136" "2004" "New Caledonia" 0
+"2137" "2005" "New Caledonia" 0
+"2138" "2006" "New Caledonia" 0
+"2139" "2007" "New Caledonia" 0
+"2140" "2008" "New Caledonia" 0
+"2141" "2009" "New Caledonia" 0
+"2142" "2010" "New Caledonia" 0
+"2143" "1992" "New Zealand" 1
+"2144" "1994" "New Zealand" 1
+"2145" "1995" "New Zealand" 0
+"2146" "1996" "New Zealand" 2
+"2147" "1997" "New Zealand" 1
+"2148" "1998" "New Zealand" 0
+"2149" "1999" "New Zealand" 0
+"2150" "2000" "New Zealand" 0
+"2151" "2001" "New Zealand" 1
+"2152" "2002" "New Zealand" 0
+"2153" "2003" "New Zealand" 3
+"2154" "2004" "New Zealand" 0
+"2155" "2005" "New Zealand" 0
+"2156" "2006" "New Zealand" 0
+"2157" "2007" "New Zealand" 0
+"2158" "2008" "New Zealand" 5
+"2159" "2009" "New Zealand" 0
+"2160" "2010" "New Zealand" 0
+"2161" "1992" "Nicaragua" 30
+"2162" "1994" "Nicaragua" 19
+"2163" "1995" "Nicaragua" 18
+"2164" "1996" "Nicaragua" 26
+"2165" "1997" "Nicaragua" 7
+"2166" "1998" "Nicaragua" 0
+"2167" "1999" "Nicaragua" 1
+"2168" "2000" "Nicaragua" 1
+"2169" "2001" "Nicaragua" 0
+"2170" "2002" "Nicaragua" 0
+"2171" "2003" "Nicaragua" 0
+"2172" "2004" "Nicaragua" 0
+"2173" "2005" "Nicaragua" 0
+"2174" "2006" "Nicaragua" 0
+"2175" "2007" "Nicaragua" 0
+"2176" "2008" "Nicaragua" 0
+"2177" "2009" "Nicaragua" 0
+"2178" "2010" "Nicaragua" 0
+"2179" "1992" "Niger" 16
+"2180" "1994" "Niger" 8
+"2181" "1995" "Niger" 2
+"2182" "1996" "Niger" 1
+"2183" "1997" "Niger" 3
+"2184" "1998" "Niger" 0
+"2185" "1999" "Niger" 2
+"2186" "2000" "Niger" 0
+"2187" "2001" "Niger" 0
+"2188" "2002" "Niger" 0
+"2189" "2003" "Niger" 0
+"2190" "2004" "Niger" 0
+"2191" "2005" "Niger" 0
+"2192" "2006" "Niger" 0
+"2193" "2007" "Niger" 7
+"2194" "2008" "Niger" 9
+"2195" "2009" "Niger" 4
+"2196" "2010" "Niger" 3
+"2197" "1992" "Nigeria" 12
+"2198" "1994" "Nigeria" 8
+"2199" "1995" "Nigeria" 1
+"2200" "1996" "Nigeria" 11
+"2201" "1997" "Nigeria" 20
+"2202" "1998" "Nigeria" 2
+"2203" "1999" "Nigeria" 18
+"2204" "2000" "Nigeria" 7
+"2205" "2001" "Nigeria" 5
+"2206" "2002" "Nigeria" 6
+"2207" "2003" "Nigeria" 9
+"2208" "2004" "Nigeria" 6
+"2209" "2005" "Nigeria" 9
+"2210" "2006" "Nigeria" 37
+"2211" "2007" "Nigeria" 61
+"2212" "2008" "Nigeria" 76
+"2213" "2009" "Nigeria" 42
+"2214" "2010" "Nigeria" 63
+"2215" "1992" "North Korea" 0
+"2216" "1994" "North Korea" 1
+"2217" "1995" "North Korea" 0
+"2218" "1996" "North Korea" 0
+"2219" "1997" "North Korea" 0
+"2220" "1998" "North Korea" 0
+"2221" "1999" "North Korea" 0
+"2222" "2000" "North Korea" 0
+"2223" "2001" "North Korea" 0
+"2224" "2002" "North Korea" 0
+"2225" "2003" "North Korea" 0
+"2226" "2004" "North Korea" 0
+"2227" "2005" "North Korea" 0
+"2228" "2006" "North Korea" 0
+"2229" "2007" "North Korea" 0
+"2230" "2008" "North Korea" 0
+"2231" "2009" "North Korea" 0
+"2232" "2010" "North Korea" 0
+"2233" "1992" "Norway" 2
+"2234" "1994" "Norway" 2
+"2235" "1995" "Norway" 0
+"2236" "1996" "Norway" 1
+"2237" "1997" "Norway" 0
+"2238" "1998" "Norway" 0
+"2239" "1999" "Norway" 0
+"2240" "2000" "Norway" 0
+"2241" "2001" "Norway" 1
+"2242" "2002" "Norway" 0
+"2243" "2003" "Norway" 1
+"2244" "2004" "Norway" 0
+"2245" "2005" "Norway" 0
+"2246" "2006" "Norway" 1
+"2247" "2007" "Norway" 0
+"2248" "2008" "Norway" 0
+"2249" "2009" "Norway" 0
+"2250" "2010" "Norway" 1
+"2251" "1992" "Pakistan" 83
+"2252" "1994" "Pakistan" 154
+"2253" "1995" "Pakistan" 666
+"2254" "1996" "Pakistan" 180
+"2255" "1997" "Pakistan" 206
+"2256" "1998" "Pakistan" 37
+"2257" "1999" "Pakistan" 39
+"2258" "2000" "Pakistan" 49
+"2259" "2001" "Pakistan" 53
+"2260" "2002" "Pakistan" 45
+"2261" "2003" "Pakistan" 29
+"2262" "2004" "Pakistan" 67
+"2263" "2005" "Pakistan" 78
+"2264" "2006" "Pakistan" 164
+"2265" "2007" "Pakistan" 259
+"2266" "2008" "Pakistan" 566
+"2267" "2009" "Pakistan" 666
+"2268" "2010" "Pakistan" 711
+"2269" "1992" "Panama" 37
+"2270" "1994" "Panama" 3
+"2271" "1995" "Panama" 6
+"2272" "1996" "Panama" 2
+"2273" "1997" "Panama" 6
+"2274" "1998" "Panama" 0
+"2275" "1999" "Panama" 1
+"2276" "2000" "Panama" 1
+"2277" "2001" "Panama" 0
+"2278" "2002" "Panama" 0
+"2279" "2003" "Panama" 0
+"2280" "2004" "Panama" 0
+"2281" "2005" "Panama" 0
+"2282" "2006" "Panama" 0
+"2283" "2007" "Panama" 0
+"2284" "2008" "Panama" 0
+"2285" "2009" "Panama" 1
+"2286" "2010" "Panama" 0
+"2287" "1992" "Papua New Guinea" 10
+"2288" "1994" "Papua New Guinea" 3
+"2289" "1995" "Papua New Guinea" 10
+"2290" "1996" "Papua New Guinea" 10
+"2291" "1997" "Papua New Guinea" 2
+"2292" "1998" "Papua New Guinea" 0
+"2293" "1999" "Papua New Guinea" 0
+"2294" "2000" "Papua New Guinea" 0
+"2295" "2001" "Papua New Guinea" 0
+"2296" "2002" "Papua New Guinea" 1
+"2297" "2003" "Papua New Guinea" 0
+"2298" "2004" "Papua New Guinea" 0
+"2299" "2005" "Papua New Guinea" 0
+"2300" "2006" "Papua New Guinea" 0
+"2301" "2007" "Papua New Guinea" 1
+"2302" "2008" "Papua New Guinea" 0
+"2303" "2009" "Papua New Guinea" 0
+"2304" "2010" "Papua New Guinea" 0
+"2305" "1992" "Paraguay" 4
+"2306" "1994" "Paraguay" 2
+"2307" "1995" "Paraguay" 12
+"2308" "1996" "Paraguay" 0
+"2309" "1997" "Paraguay" 6
+"2310" "1998" "Paraguay" 0
+"2311" "1999" "Paraguay" 1
+"2312" "2000" "Paraguay" 2
+"2313" "2001" "Paraguay" 0
+"2314" "2002" "Paraguay" 0
+"2315" "2003" "Paraguay" 0
+"2316" "2004" "Paraguay" 0
+"2317" "2005" "Paraguay" 0
+"2318" "2006" "Paraguay" 0
+"2319" "2007" "Paraguay" 0
+"2320" "2008" "Paraguay" 0
+"2321" "2009" "Paraguay" 0
+"2322" "2010" "Paraguay" 2
+"2323" "1992" "Peru" 383
+"2324" "1994" "Peru" 91
+"2325" "1995" "Peru" 44
+"2326" "1996" "Peru" 42
+"2327" "1997" "Peru" 58
+"2328" "1998" "Peru" 5
+"2329" "1999" "Peru" 5
+"2330" "2000" "Peru" 3
+"2331" "2001" "Peru" 3
+"2332" "2002" "Peru" 2
+"2333" "2003" "Peru" 1
+"2334" "2004" "Peru" 3
+"2335" "2005" "Peru" 2
+"2336" "2006" "Peru" 1
+"2337" "2007" "Peru" 4
+"2338" "2008" "Peru" 1
+"2339" "2009" "Peru" 4
+"2340" "2010" "Peru" 0
+"2341" "1992" "Philippines" 162
+"2342" "1994" "Philippines" 72
+"2343" "1995" "Philippines" 63
+"2344" "1996" "Philippines" 61
+"2345" "1997" "Philippines" 57
+"2346" "1998" "Philippines" 18
+"2347" "1999" "Philippines" 31
+"2348" "2000" "Philippines" 132
+"2349" "2001" "Philippines" 50
+"2350" "2002" "Philippines" 48
+"2351" "2003" "Philippines" 107
+"2352" "2004" "Philippines" 32
+"2353" "2005" "Philippines" 25
+"2354" "2006" "Philippines" 58
+"2355" "2007" "Philippines" 65
+"2356" "2008" "Philippines" 275
+"2357" "2009" "Philippines" 230
+"2358" "2010" "Philippines" 205
+"2359" "1992" "Poland" 5
+"2360" "1994" "Poland" 4
+"2361" "1995" "Poland" 4
+"2362" "1996" "Poland" 6
+"2363" "1997" "Poland" 3
+"2364" "1998" "Poland" 2
+"2365" "1999" "Poland" 0
+"2366" "2000" "Poland" 0
+"2367" "2001" "Poland" 1
+"2368" "2002" "Poland" 0
+"2369" "2003" "Poland" 0
+"2370" "2004" "Poland" 0
+"2371" "2005" "Poland" 0
+"2372" "2006" "Poland" 0
+"2373" "2007" "Poland" 0
+"2374" "2008" "Poland" 0
+"2375" "2009" "Poland" 0
+"2376" "2010" "Poland" 0
+"2377" "1992" "Portugal" 1
+"2378" "1994" "Portugal" 1
+"2379" "1995" "Portugal" 3
+"2380" "1996" "Portugal" 0
+"2381" "1997" "Portugal" 0
+"2382" "1998" "Portugal" 0
+"2383" "1999" "Portugal" 0
+"2384" "2000" "Portugal" 0
+"2385" "2001" "Portugal" 0
+"2386" "2002" "Portugal" 0
+"2387" "2003" "Portugal" 0
+"2388" "2004" "Portugal" 0
+"2389" "2005" "Portugal" 0
+"2390" "2006" "Portugal" 0
+"2391" "2007" "Portugal" 0
+"2392" "2008" "Portugal" 0
+"2393" "2009" "Portugal" 0
+"2394" "2010" "Portugal" 0
+"2395" "1992" "Qatar" 0
+"2396" "1994" "Qatar" 0
+"2397" "1995" "Qatar" 0
+"2398" "1996" "Qatar" 1
+"2399" "1997" "Qatar" 0
+"2400" "1998" "Qatar" 0
+"2401" "1999" "Qatar" 0
+"2402" "2000" "Qatar" 1
+"2403" "2001" "Qatar" 1
+"2404" "2002" "Qatar" 0
+"2405" "2003" "Qatar" 0
+"2406" "2004" "Qatar" 0
+"2407" "2005" "Qatar" 1
+"2408" "2006" "Qatar" 0
+"2409" "2007" "Qatar" 0
+"2410" "2008" "Qatar" 0
+"2411" "2009" "Qatar" 0
+"2412" "2010" "Qatar" 0
+"2413" "1992" "Republic of the Congo" 0
+"2414" "1994" "Republic of the Congo" 8
+"2415" "1995" "Republic of the Congo" 0
+"2416" "1996" "Republic of the Congo" 1
+"2417" "1997" "Republic of the Congo" 2
+"2418" "1998" "Republic of the Congo" 0
+"2419" "1999" "Republic of the Congo" 3
+"2420" "2000" "Republic of the Congo" 0
+"2421" "2001" "Republic of the Congo" 1
+"2422" "2002" "Republic of the Congo" 3
+"2423" "2003" "Republic of the Congo" 1
+"2424" "2004" "Republic of the Congo" 0
+"2425" "2005" "Republic of the Congo" 0
+"2426" "2006" "Republic of the Congo" 0
+"2427" "2007" "Republic of the Congo" 0
+"2428" "2008" "Republic of the Congo" 0
+"2429" "2009" "Republic of the Congo" 0
+"2430" "2010" "Republic of the Congo" 0
+"2431" "1992" "Romania" 1
+"2432" "1994" "Romania" 0
+"2433" "1995" "Romania" 1
+"2434" "1996" "Romania" 0
+"2435" "1997" "Romania" 0
+"2436" "1998" "Romania" 0
+"2437" "1999" "Romania" 0
+"2438" "2000" "Romania" 0
+"2439" "2001" "Romania" 0
+"2440" "2002" "Romania" 0
+"2441" "2003" "Romania" 0
+"2442" "2004" "Romania" 0
+"2443" "2005" "Romania" 0
+"2444" "2006" "Romania" 0
+"2445" "2007" "Romania" 0
+"2446" "2008" "Romania" 1
+"2447" "2009" "Romania" 0
+"2448" "2010" "Romania" 0
+"2449" "1992" "Russia" 21
+"2450" "1994" "Russia" 47
+"2451" "1995" "Russia" 37
+"2452" "1996" "Russia" 66
+"2453" "1997" "Russia" 77
+"2454" "1998" "Russia" 26
+"2455" "1999" "Russia" 54
+"2456" "2000" "Russia" 138
+"2457" "2001" "Russia" 135
+"2458" "2002" "Russia" 89
+"2459" "2003" "Russia" 76
+"2460" "2004" "Russia" 43
+"2461" "2005" "Russia" 63
+"2462" "2006" "Russia" 56
+"2463" "2007" "Russia" 51
+"2464" "2008" "Russia" 170
+"2465" "2009" "Russia" 152
+"2466" "2010" "Russia" 251
+"2467" "1992" "Rwanda" 18
+"2468" "1994" "Rwanda" 33
+"2469" "1995" "Rwanda" 17
+"2470" "1996" "Rwanda" 15
+"2471" "1997" "Rwanda" 33
+"2472" "1998" "Rwanda" 9
+"2473" "1999" "Rwanda" 0
+"2474" "2000" "Rwanda" 1
+"2475" "2001" "Rwanda" 3
+"2476" "2002" "Rwanda" 0
+"2477" "2003" "Rwanda" 0
+"2478" "2004" "Rwanda" 0
+"2479" "2005" "Rwanda" 1
+"2480" "2006" "Rwanda" 0
+"2481" "2007" "Rwanda" 0
+"2482" "2008" "Rwanda" 1
+"2483" "2009" "Rwanda" 1
+"2484" "2010" "Rwanda" 8
+"2485" "1992" "Saudi Arabia" 0
+"2486" "1994" "Saudi Arabia" 2
+"2487" "1995" "Saudi Arabia" 3
+"2488" "1996" "Saudi Arabia" 1
+"2489" "1997" "Saudi Arabia" 0
+"2490" "1998" "Saudi Arabia" 0
+"2491" "1999" "Saudi Arabia" 0
+"2492" "2000" "Saudi Arabia" 5
+"2493" "2001" "Saudi Arabia" 3
+"2494" "2002" "Saudi Arabia" 2
+"2495" "2003" "Saudi Arabia" 8
+"2496" "2004" "Saudi Arabia" 17
+"2497" "2005" "Saudi Arabia" 1
+"2498" "2006" "Saudi Arabia" 3
+"2499" "2007" "Saudi Arabia" 1
+"2500" "2008" "Saudi Arabia" 0
+"2501" "2009" "Saudi Arabia" 3
+"2502" "2010" "Saudi Arabia" 0
+"2503" "1992" "Senegal" 15
+"2504" "1994" "Senegal" 2
+"2505" "1995" "Senegal" 8
+"2506" "1996" "Senegal" 0
+"2507" "1997" "Senegal" 26
+"2508" "1998" "Senegal" 1
+"2509" "1999" "Senegal" 1
+"2510" "2000" "Senegal" 4
+"2511" "2001" "Senegal" 8
+"2512" "2002" "Senegal" 3
+"2513" "2003" "Senegal" 0
+"2514" "2004" "Senegal" 0
+"2515" "2005" "Senegal" 1
+"2516" "2006" "Senegal" 0
+"2517" "2007" "Senegal" 1
+"2518" "2008" "Senegal" 2
+"2519" "2009" "Senegal" 3
+"2520" "2010" "Senegal" 1
+"2521" "1992" "Serbia" 0
+"2522" "1994" "Serbia" 0
+"2523" "1995" "Serbia" 0
+"2524" "1996" "Serbia" 0
+"2525" "1997" "Serbia" 0
+"2526" "1998" "Serbia" 0
+"2527" "1999" "Serbia" 0
+"2528" "2000" "Serbia" 0
+"2529" "2001" "Serbia" 0
+"2530" "2002" "Serbia" 0
+"2531" "2003" "Serbia" 0
+"2532" "2004" "Serbia" 0
+"2533" "2005" "Serbia" 0
+"2534" "2006" "Serbia" 0
+"2535" "2007" "Serbia" 0
+"2536" "2008" "Serbia" 4
+"2537" "2009" "Serbia" 3
+"2538" "2010" "Serbia" 1
+"2539" "1992" "Serbia-Montenegro" 0
+"2540" "1994" "Serbia-Montenegro" 0
+"2541" "1995" "Serbia-Montenegro" 0
+"2542" "1996" "Serbia-Montenegro" 0
+"2543" "1997" "Serbia-Montenegro" 0
+"2544" "1998" "Serbia-Montenegro" 0
+"2545" "1999" "Serbia-Montenegro" 0
+"2546" "2000" "Serbia-Montenegro" 0
+"2547" "2001" "Serbia-Montenegro" 0
+"2548" "2002" "Serbia-Montenegro" 0
+"2549" "2003" "Serbia-Montenegro" 6
+"2550" "2004" "Serbia-Montenegro" 1
+"2551" "2005" "Serbia-Montenegro" 2
+"2552" "2006" "Serbia-Montenegro" 2
+"2553" "2007" "Serbia-Montenegro" 0
+"2554" "2008" "Serbia-Montenegro" 0
+"2555" "2009" "Serbia-Montenegro" 0
+"2556" "2010" "Serbia-Montenegro" 0
+"2557" "1992" "Sierra Leone" 4
+"2558" "1994" "Sierra Leone" 22
+"2559" "1995" "Sierra Leone" 14
+"2560" "1996" "Sierra Leone" 5
+"2561" "1997" "Sierra Leone" 3
+"2562" "1998" "Sierra Leone" 7
+"2563" "1999" "Sierra Leone" 9
+"2564" "2000" "Sierra Leone" 24
+"2565" "2001" "Sierra Leone" 0
+"2566" "2002" "Sierra Leone" 0
+"2567" "2003" "Sierra Leone" 0
+"2568" "2004" "Sierra Leone" 0
+"2569" "2005" "Sierra Leone" 0
+"2570" "2006" "Sierra Leone" 0
+"2571" "2007" "Sierra Leone" 0
+"2572" "2008" "Sierra Leone" 0
+"2573" "2009" "Sierra Leone" 0
+"2574" "2010" "Sierra Leone" 0
+"2575" "1992" "Singapore" 1
+"2576" "1994" "Singapore" 1
+"2577" "1995" "Singapore" 0
+"2578" "1996" "Singapore" 0
+"2579" "1997" "Singapore" 0
+"2580" "1998" "Singapore" 0
+"2581" "1999" "Singapore" 0
+"2582" "2000" "Singapore" 0
+"2583" "2001" "Singapore" 0
+"2584" "2002" "Singapore" 0
+"2585" "2003" "Singapore" 0
+"2586" "2004" "Singapore" 0
+"2587" "2005" "Singapore" 0
+"2588" "2006" "Singapore" 0
+"2589" "2007" "Singapore" 0
+"2590" "2008" "Singapore" 0
+"2591" "2009" "Singapore" 0
+"2592" "2010" "Singapore" 0
+"2593" "1992" "Slovak Republic" 0
+"2594" "1994" "Slovak Republic" 1
+"2595" "1995" "Slovak Republic" 3
+"2596" "1996" "Slovak Republic" 5
+"2597" "1997" "Slovak Republic" 4
+"2598" "1998" "Slovak Republic" 2
+"2599" "1999" "Slovak Republic" 1
+"2600" "2000" "Slovak Republic" 1
+"2601" "2001" "Slovak Republic" 0
+"2602" "2002" "Slovak Republic" 0
+"2603" "2003" "Slovak Republic" 0
+"2604" "2004" "Slovak Republic" 0
+"2605" "2005" "Slovak Republic" 0
+"2606" "2006" "Slovak Republic" 0
+"2607" "2007" "Slovak Republic" 0
+"2608" "2008" "Slovak Republic" 0
+"2609" "2009" "Slovak Republic" 0
+"2610" "2010" "Slovak Republic" 0
+"2611" "1992" "Slovenia" 0
+"2612" "1994" "Slovenia" 1
+"2613" "1995" "Slovenia" 0
+"2614" "1996" "Slovenia" 3
+"2615" "1997" "Slovenia" 1
+"2616" "1998" "Slovenia" 0
+"2617" "1999" "Slovenia" 0
+"2618" "2000" "Slovenia" 1
+"2619" "2001" "Slovenia" 0
+"2620" "2002" "Slovenia" 0
+"2621" "2003" "Slovenia" 0
+"2622" "2004" "Slovenia" 0
+"2623" "2005" "Slovenia" 0
+"2624" "2006" "Slovenia" 0
+"2625" "2007" "Slovenia" 0
+"2626" "2008" "Slovenia" 0
+"2627" "2009" "Slovenia" 0
+"2628" "2010" "Slovenia" 0
+"2629" "1992" "Solomon Islands" 0
+"2630" "1994" "Solomon Islands" 0
+"2631" "1995" "Solomon Islands" 0
+"2632" "1996" "Solomon Islands" 0
+"2633" "1997" "Solomon Islands" 0
+"2634" "1998" "Solomon Islands" 0
+"2635" "1999" "Solomon Islands" 1
+"2636" "2000" "Solomon Islands" 1
+"2637" "2001" "Solomon Islands" 0
+"2638" "2002" "Solomon Islands" 1
+"2639" "2003" "Solomon Islands" 1
+"2640" "2004" "Solomon Islands" 0
+"2641" "2005" "Solomon Islands" 0
+"2642" "2006" "Solomon Islands" 0
+"2643" "2007" "Solomon Islands" 0
+"2644" "2008" "Solomon Islands" 0
+"2645" "2009" "Solomon Islands" 0
+"2646" "2010" "Solomon Islands" 0
+"2647" "1992" "Somalia" 21
+"2648" "1994" "Somalia" 57
+"2649" "1995" "Somalia" 13
+"2650" "1996" "Somalia" 16
+"2651" "1997" "Somalia" 19
+"2652" "1998" "Somalia" 1
+"2653" "1999" "Somalia" 4
+"2654" "2000" "Somalia" 9
+"2655" "2001" "Somalia" 5
+"2656" "2002" "Somalia" 3
+"2657" "2003" "Somalia" 1
+"2658" "2004" "Somalia" 2
+"2659" "2005" "Somalia" 6
+"2660" "2006" "Somalia" 10
+"2661" "2007" "Somalia" 156
+"2662" "2008" "Somalia" 172
+"2663" "2009" "Somalia" 122
+"2664" "2010" "Somalia" 129
+"2665" "1992" "South Africa" 271
+"2666" "1994" "South Africa" 174
+"2667" "1995" "South Africa" 32
+"2668" "1996" "South Africa" 47
+"2669" "1997" "South Africa" 17
+"2670" "1998" "South Africa" 6
+"2671" "1999" "South Africa" 17
+"2672" "2000" "South Africa" 21
+"2673" "2001" "South Africa" 0
+"2674" "2002" "South Africa" 8
+"2675" "2003" "South Africa" 0
+"2676" "2004" "South Africa" 0
+"2677" "2005" "South Africa" 0
+"2678" "2006" "South Africa" 0
+"2679" "2007" "South Africa" 2
+"2680" "2008" "South Africa" 1
+"2681" "2009" "South Africa" 0
+"2682" "2010" "South Africa" 0
+"2683" "1992" "South Korea" 3
+"2684" "1994" "South Korea" 2
+"2685" "1995" "South Korea" 4
+"2686" "1996" "South Korea" 1
+"2687" "1997" "South Korea" 0
+"2688" "1998" "South Korea" 0
+"2689" "1999" "South Korea" 0
+"2690" "2000" "South Korea" 0
+"2691" "2001" "South Korea" 1
+"2692" "2002" "South Korea" 0
+"2693" "2003" "South Korea" 1
+"2694" "2004" "South Korea" 0
+"2695" "2005" "South Korea" 0
+"2696" "2006" "South Korea" 1
+"2697" "2007" "South Korea" 0
+"2698" "2008" "South Korea" 0
+"2699" "2009" "South Korea" 0
+"2700" "2010" "South Korea" 0
+"2701" "1992" "Spain" 72
+"2702" "1994" "Spain" 55
+"2703" "1995" "Spain" 44
+"2704" "1996" "Spain" 63
+"2705" "1997" "Spain" 86
+"2706" "1998" "Spain" 17
+"2707" "1999" "Spain" 47
+"2708" "2000" "Spain" 112
+"2709" "2001" "Spain" 79
+"2710" "2002" "Spain" 41
+"2711" "2003" "Spain" 21
+"2712" "2004" "Spain" 31
+"2713" "2005" "Spain" 24
+"2714" "2006" "Spain" 23
+"2715" "2007" "Spain" 11
+"2716" "2008" "Spain" 37
+"2717" "2009" "Spain" 21
+"2718" "2010" "Spain" 3
+"2719" "1992" "Sri Lanka" 103
+"2720" "1994" "Sri Lanka" 35
+"2721" "1995" "Sri Lanka" 126
+"2722" "1996" "Sri Lanka" 176
+"2723" "1997" "Sri Lanka" 64
+"2724" "1998" "Sri Lanka" 35
+"2725" "1999" "Sri Lanka" 46
+"2726" "2000" "Sri Lanka" 68
+"2727" "2001" "Sri Lanka" 36
+"2728" "2002" "Sri Lanka" 3
+"2729" "2003" "Sri Lanka" 9
+"2730" "2004" "Sri Lanka" 33
+"2731" "2005" "Sri Lanka" 133
+"2732" "2006" "Sri Lanka" 217
+"2733" "2007" "Sri Lanka" 132
+"2734" "2008" "Sri Lanka" 101
+"2735" "2009" "Sri Lanka" 38
+"2736" "2010" "Sri Lanka" 3
+"2737" "1992" "St. Kitts and Nevis" 0
+"2738" "1994" "St. Kitts and Nevis" 0
+"2739" "1995" "St. Kitts and Nevis" 2
+"2740" "1996" "St. Kitts and Nevis" 0
+"2741" "1997" "St. Kitts and Nevis" 0
+"2742" "1998" "St. Kitts and Nevis" 0
+"2743" "1999" "St. Kitts and Nevis" 0
+"2744" "2000" "St. Kitts and Nevis" 0
+"2745" "2001" "St. Kitts and Nevis" 0
+"2746" "2002" "St. Kitts and Nevis" 0
+"2747" "2003" "St. Kitts and Nevis" 0
+"2748" "2004" "St. Kitts and Nevis" 0
+"2749" "2005" "St. Kitts and Nevis" 0
+"2750" "2006" "St. Kitts and Nevis" 0
+"2751" "2007" "St. Kitts and Nevis" 0
+"2752" "2008" "St. Kitts and Nevis" 0
+"2753" "2009" "St. Kitts and Nevis" 0
+"2754" "2010" "St. Kitts and Nevis" 0
+"2755" "1992" "St. Lucia" 0
+"2756" "1994" "St. Lucia" 0
+"2757" "1995" "St. Lucia" 0
+"2758" "1996" "St. Lucia" 0
+"2759" "1997" "St. Lucia" 0
+"2760" "1998" "St. Lucia" 0
+"2761" "1999" "St. Lucia" 0
+"2762" "2000" "St. Lucia" 1
+"2763" "2001" "St. Lucia" 0
+"2764" "2002" "St. Lucia" 0
+"2765" "2003" "St. Lucia" 0
+"2766" "2004" "St. Lucia" 0
+"2767" "2005" "St. Lucia" 0
+"2768" "2006" "St. Lucia" 0
+"2769" "2007" "St. Lucia" 0
+"2770" "2008" "St. Lucia" 0
+"2771" "2009" "St. Lucia" 0
+"2772" "2010" "St. Lucia" 0
+"2773" "1992" "Sudan" 7
+"2774" "1994" "Sudan" 5
+"2775" "1995" "Sudan" 4
+"2776" "1996" "Sudan" 10
+"2777" "1997" "Sudan" 3
+"2778" "1998" "Sudan" 0
+"2779" "1999" "Sudan" 5
+"2780" "2000" "Sudan" 7
+"2781" "2001" "Sudan" 9
+"2782" "2002" "Sudan" 13
+"2783" "2003" "Sudan" 0
+"2784" "2004" "Sudan" 5
+"2785" "2005" "Sudan" 6
+"2786" "2006" "Sudan" 24
+"2787" "2007" "Sudan" 23
+"2788" "2008" "Sudan" 32
+"2789" "2009" "Sudan" 26
+"2790" "2010" "Sudan" 28
+"2791" "1992" "Suriname" 5
+"2792" "1994" "Suriname" 1
+"2793" "1995" "Suriname" 0
+"2794" "1996" "Suriname" 0
+"2795" "1997" "Suriname" 2
+"2796" "1998" "Suriname" 0
+"2797" "1999" "Suriname" 0
+"2798" "2000" "Suriname" 0
+"2799" "2001" "Suriname" 0
+"2800" "2002" "Suriname" 0
+"2801" "2003" "Suriname" 0
+"2802" "2004" "Suriname" 0
+"2803" "2005" "Suriname" 0
+"2804" "2006" "Suriname" 0
+"2805" "2007" "Suriname" 0
+"2806" "2008" "Suriname" 0
+"2807" "2009" "Suriname" 0
+"2808" "2010" "Suriname" 0
+"2809" "1992" "Swaziland" 1
+"2810" "1994" "Swaziland" 0
+"2811" "1995" "Swaziland" 1
+"2812" "1996" "Swaziland" 0
+"2813" "1997" "Swaziland" 1
+"2814" "1998" "Swaziland" 1
+"2815" "1999" "Swaziland" 1
+"2816" "2000" "Swaziland" 0
+"2817" "2001" "Swaziland" 0
+"2818" "2002" "Swaziland" 0
+"2819" "2003" "Swaziland" 1
+"2820" "2004" "Swaziland" 0
+"2821" "2005" "Swaziland" 0
+"2822" "2006" "Swaziland" 1
+"2823" "2007" "Swaziland" 0
+"2824" "2008" "Swaziland" 3
+"2825" "2009" "Swaziland" 0
+"2826" "2010" "Swaziland" 0
+"2827" "1992" "Sweden" 12
+"2828" "1994" "Sweden" 1
+"2829" "1995" "Sweden" 1
+"2830" "1996" "Sweden" 1
+"2831" "1997" "Sweden" 4
+"2832" "1998" "Sweden" 0
+"2833" "1999" "Sweden" 2
+"2834" "2000" "Sweden" 1
+"2835" "2001" "Sweden" 0
+"2836" "2002" "Sweden" 0
+"2837" "2003" "Sweden" 0
+"2838" "2004" "Sweden" 0
+"2839" "2005" "Sweden" 3
+"2840" "2006" "Sweden" 1
+"2841" "2007" "Sweden" 0
+"2842" "2008" "Sweden" 1
+"2843" "2009" "Sweden" 1
+"2844" "2010" "Sweden" 3
+"2845" "1992" "Switzerland" 6
+"2846" "1994" "Switzerland" 0
+"2847" "1995" "Switzerland" 5
+"2848" "1996" "Switzerland" 4
+"2849" "1997" "Switzerland" 1
+"2850" "1998" "Switzerland" 1
+"2851" "1999" "Switzerland" 2
+"2852" "2000" "Switzerland" 4
+"2853" "2001" "Switzerland" 2
+"2854" "2002" "Switzerland" 0
+"2855" "2003" "Switzerland" 1
+"2856" "2004" "Switzerland" 0
+"2857" "2005" "Switzerland" 0
+"2858" "2006" "Switzerland" 0
+"2859" "2007" "Switzerland" 2
+"2860" "2008" "Switzerland" 0
+"2861" "2009" "Switzerland" 0
+"2862" "2010" "Switzerland" 0
+"2863" "1992" "Syria" 0
+"2864" "1994" "Syria" 0
+"2865" "1995" "Syria" 0
+"2866" "1996" "Syria" 2
+"2867" "1997" "Syria" 1
+"2868" "1998" "Syria" 1
+"2869" "1999" "Syria" 0
+"2870" "2000" "Syria" 0
+"2871" "2001" "Syria" 0
+"2872" "2002" "Syria" 0
+"2873" "2003" "Syria" 0
+"2874" "2004" "Syria" 1
+"2875" "2005" "Syria" 0
+"2876" "2006" "Syria" 1
+"2877" "2007" "Syria" 0
+"2878" "2008" "Syria" 1
+"2879" "2009" "Syria" 0
+"2880" "2010" "Syria" 0
+"2881" "1992" "Taiwan" 20
+"2882" "1994" "Taiwan" 5
+"2883" "1995" "Taiwan" 4
+"2884" "1996" "Taiwan" 5
+"2885" "1997" "Taiwan" 1
+"2886" "1998" "Taiwan" 0
+"2887" "1999" "Taiwan" 0
+"2888" "2000" "Taiwan" 0
+"2889" "2001" "Taiwan" 2
+"2890" "2002" "Taiwan" 0
+"2891" "2003" "Taiwan" 0
+"2892" "2004" "Taiwan" 2
+"2893" "2005" "Taiwan" 0
+"2894" "2006" "Taiwan" 0
+"2895" "2007" "Taiwan" 0
+"2896" "2008" "Taiwan" 1
+"2897" "2009" "Taiwan" 0
+"2898" "2010" "Taiwan" 0
+"2899" "1992" "Tajikistan" 17
+"2900" "1994" "Tajikistan" 31
+"2901" "1995" "Tajikistan" 34
+"2902" "1996" "Tajikistan" 22
+"2903" "1997" "Tajikistan" 40
+"2904" "1998" "Tajikistan" 11
+"2905" "1999" "Tajikistan" 4
+"2906" "2000" "Tajikistan" 6
+"2907" "2001" "Tajikistan" 6
+"2908" "2002" "Tajikistan" 0
+"2909" "2003" "Tajikistan" 0
+"2910" "2004" "Tajikistan" 0
+"2911" "2005" "Tajikistan" 1
+"2912" "2006" "Tajikistan" 0
+"2913" "2007" "Tajikistan" 1
+"2914" "2008" "Tajikistan" 0
+"2915" "2009" "Tajikistan" 1
+"2916" "2010" "Tajikistan" 1
+"2917" "1992" "Tanzania" 0
+"2918" "1994" "Tanzania" 1
+"2919" "1995" "Tanzania" 1
+"2920" "1996" "Tanzania" 0
+"2921" "1997" "Tanzania" 1
+"2922" "1998" "Tanzania" 1
+"2923" "1999" "Tanzania" 0
+"2924" "2000" "Tanzania" 2
+"2925" "2001" "Tanzania" 4
+"2926" "2002" "Tanzania" 2
+"2927" "2003" "Tanzania" 0
+"2928" "2004" "Tanzania" 1
+"2929" "2005" "Tanzania" 0
+"2930" "2006" "Tanzania" 0
+"2931" "2007" "Tanzania" 0
+"2932" "2008" "Tanzania" 1
+"2933" "2009" "Tanzania" 0
+"2934" "2010" "Tanzania" 1
+"2935" "1992" "Thailand" 25
+"2936" "1994" "Thailand" 24
+"2937" "1995" "Thailand" 12
+"2938" "1996" "Thailand" 19
+"2939" "1997" "Thailand" 20
+"2940" "1998" "Thailand" 4
+"2941" "1999" "Thailand" 4
+"2942" "2000" "Thailand" 4
+"2943" "2001" "Thailand" 15
+"2944" "2002" "Thailand" 12
+"2945" "2003" "Thailand" 6
+"2946" "2004" "Thailand" 44
+"2947" "2005" "Thailand" 155
+"2948" "2006" "Thailand" 202
+"2949" "2007" "Thailand" 292
+"2950" "2008" "Thailand" 200
+"2951" "2009" "Thailand" 298
+"2952" "2010" "Thailand" 253
+"2953" "1992" "Togo" 27
+"2954" "1994" "Togo" 13
+"2955" "1995" "Togo" 1
+"2956" "1996" "Togo" 1
+"2957" "1997" "Togo" 0
+"2958" "1998" "Togo" 0
+"2959" "1999" "Togo" 0
+"2960" "2000" "Togo" 0
+"2961" "2001" "Togo" 0
+"2962" "2002" "Togo" 0
+"2963" "2003" "Togo" 0
+"2964" "2004" "Togo" 0
+"2965" "2005" "Togo" 1
+"2966" "2006" "Togo" 0
+"2967" "2007" "Togo" 0
+"2968" "2008" "Togo" 0
+"2969" "2009" "Togo" 0
+"2970" "2010" "Togo" 0
+"2971" "1992" "Trinidad and Tobago" 1
+"2972" "1994" "Trinidad and Tobago" 1
+"2973" "1995" "Trinidad and Tobago" 4
+"2974" "1996" "Trinidad and Tobago" 3
+"2975" "1997" "Trinidad and Tobago" 0
+"2976" "1998" "Trinidad and Tobago" 0
+"2977" "1999" "Trinidad and Tobago" 0
+"2978" "2000" "Trinidad and Tobago" 0
+"2979" "2001" "Trinidad and Tobago" 0
+"2980" "2002" "Trinidad and Tobago" 0
+"2981" "2003" "Trinidad and Tobago" 0
+"2982" "2004" "Trinidad and Tobago" 0
+"2983" "2005" "Trinidad and Tobago" 2
+"2984" "2006" "Trinidad and Tobago" 0
+"2985" "2007" "Trinidad and Tobago" 0
+"2986" "2008" "Trinidad and Tobago" 0
+"2987" "2009" "Trinidad and Tobago" 0
+"2988" "2010" "Trinidad and Tobago" 1
+"2989" "1992" "Tunisia" 0
+"2990" "1994" "Tunisia" 1
+"2991" "1995" "Tunisia" 1
+"2992" "1996" "Tunisia" 0
+"2993" "1997" "Tunisia" 0
+"2994" "1998" "Tunisia" 0
+"2995" "1999" "Tunisia" 0
+"2996" "2000" "Tunisia" 1
+"2997" "2001" "Tunisia" 1
+"2998" "2002" "Tunisia" 2
+"2999" "2003" "Tunisia" 0
+"3000" "2004" "Tunisia" 0
+"3001" "2005" "Tunisia" 0
+"3002" "2006" "Tunisia" 0
+"3003" "2007" "Tunisia" 1
+"3004" "2008" "Tunisia" 2
+"3005" "2009" "Tunisia" 0
+"3006" "2010" "Tunisia" 0
+"3007" "1992" "Turkey" 515
+"3008" "1994" "Turkey" 300
+"3009" "1995" "Turkey" 133
+"3010" "1996" "Turkey" 54
+"3011" "1997" "Turkey" 44
+"3012" "1998" "Turkey" 24
+"3013" "1999" "Turkey" 109
+"3014" "2000" "Turkey" 35
+"3015" "2001" "Turkey" 19
+"3016" "2002" "Turkey" 5
+"3017" "2003" "Turkey" 19
+"3018" "2004" "Turkey" 27
+"3019" "2005" "Turkey" 41
+"3020" "2006" "Turkey" 40
+"3021" "2007" "Turkey" 29
+"3022" "2008" "Turkey" 32
+"3023" "2009" "Turkey" 13
+"3024" "2010" "Turkey" 20
+"3025" "1992" "Turkmenistan" 0
+"3026" "1994" "Turkmenistan" 0
+"3027" "1995" "Turkmenistan" 0
+"3028" "1996" "Turkmenistan" 0
+"3029" "1997" "Turkmenistan" 0
+"3030" "1998" "Turkmenistan" 0
+"3031" "1999" "Turkmenistan" 0
+"3032" "2000" "Turkmenistan" 0
+"3033" "2001" "Turkmenistan" 0
+"3034" "2002" "Turkmenistan" 1
+"3035" "2003" "Turkmenistan" 0
+"3036" "2004" "Turkmenistan" 0
+"3037" "2005" "Turkmenistan" 0
+"3038" "2006" "Turkmenistan" 0
+"3039" "2007" "Turkmenistan" 0
+"3040" "2008" "Turkmenistan" 0
+"3041" "2009" "Turkmenistan" 0
+"3042" "2010" "Turkmenistan" 0
+"3043" "1992" "Uganda" 3
+"3044" "1994" "Uganda" 13
+"3045" "1995" "Uganda" 7
+"3046" "1996" "Uganda" 29
+"3047" "1997" "Uganda" 24
+"3048" "1998" "Uganda" 18
+"3049" "1999" "Uganda" 19
+"3050" "2000" "Uganda" 20
+"3051" "2001" "Uganda" 24
+"3052" "2002" "Uganda" 24
+"3053" "2003" "Uganda" 30
+"3054" "2004" "Uganda" 10
+"3055" "2005" "Uganda" 11
+"3056" "2006" "Uganda" 0
+"3057" "2007" "Uganda" 1
+"3058" "2008" "Uganda" 8
+"3059" "2009" "Uganda" 2
+"3060" "2010" "Uganda" 6
+"3061" "1992" "Ukraine" 1
+"3062" "1994" "Ukraine" 10
+"3063" "1995" "Ukraine" 2
+"3064" "1996" "Ukraine" 3
+"3065" "1997" "Ukraine" 2
+"3066" "1998" "Ukraine" 0
+"3067" "1999" "Ukraine" 6
+"3068" "2000" "Ukraine" 1
+"3069" "2001" "Ukraine" 0
+"3070" "2002" "Ukraine" 3
+"3071" "2003" "Ukraine" 1
+"3072" "2004" "Ukraine" 0
+"3073" "2005" "Ukraine" 0
+"3074" "2006" "Ukraine" 0
+"3075" "2007" "Ukraine" 1
+"3076" "2008" "Ukraine" 1
+"3077" "2009" "Ukraine" 2
+"3078" "2010" "Ukraine" 4
+"3079" "1992" "United Arab Emirates" 1
+"3080" "1994" "United Arab Emirates" 0
+"3081" "1995" "United Arab Emirates" 2
+"3082" "1996" "United Arab Emirates" 0
+"3083" "1997" "United Arab Emirates" 0
+"3084" "1998" "United Arab Emirates" 0
+"3085" "1999" "United Arab Emirates" 0
+"3086" "2000" "United Arab Emirates" 0
+"3087" "2001" "United Arab Emirates" 0
+"3088" "2002" "United Arab Emirates" 0
+"3089" "2003" "United Arab Emirates" 0
+"3090" "2004" "United Arab Emirates" 0
+"3091" "2005" "United Arab Emirates" 0
+"3092" "2006" "United Arab Emirates" 0
+"3093" "2007" "United Arab Emirates" 0
+"3094" "2008" "United Arab Emirates" 0
+"3095" "2009" "United Arab Emirates" 0
+"3096" "2010" "United Arab Emirates" 2
+"3097" "1992" "United Kingdom" 274
+"3098" "1994" "United Kingdom" 256
+"3099" "1995" "United Kingdom" 22
+"3100" "1996" "United Kingdom" 37
+"3101" "1997" "United Kingdom" 78
+"3102" "1998" "United Kingdom" 63
+"3103" "1999" "United Kingdom" 76
+"3104" "2000" "United Kingdom" 61
+"3105" "2001" "United Kingdom" 94
+"3106" "2002" "United Kingdom" 21
+"3107" "2003" "United Kingdom" 23
+"3108" "2004" "United Kingdom" 5
+"3109" "2005" "United Kingdom" 25
+"3110" "2006" "United Kingdom" 6
+"3111" "2007" "United Kingdom" 21
+"3112" "2008" "United Kingdom" 39
+"3113" "2009" "United Kingdom" 22
+"3114" "2010" "United Kingdom" 57
+"3115" "1992" "United States" 32
+"3116" "1994" "United States" 56
+"3117" "1995" "United States" 62
+"3118" "1996" "United States" 36
+"3119" "1997" "United States" 40
+"3120" "1998" "United States" 30
+"3121" "1999" "United States" 53
+"3122" "2000" "United States" 33
+"3123" "2001" "United States" 40
+"3124" "2002" "United States" 33
+"3125" "2003" "United States" 32
+"3126" "2004" "United States" 9
+"3127" "2005" "United States" 23
+"3128" "2006" "United States" 6
+"3129" "2007" "United States" 9
+"3130" "2008" "United States" 19
+"3131" "2009" "United States" 11
+"3132" "2010" "United States" 17
+"3133" "1992" "Uruguay" 11
+"3134" "1994" "Uruguay" 4
+"3135" "1995" "Uruguay" 1
+"3136" "1996" "Uruguay" 1
+"3137" "1997" "Uruguay" 2
+"3138" "1998" "Uruguay" 0
+"3139" "1999" "Uruguay" 0
+"3140" "2000" "Uruguay" 0
+"3141" "2001" "Uruguay" 0
+"3142" "2002" "Uruguay" 0
+"3143" "2003" "Uruguay" 0
+"3144" "2004" "Uruguay" 0
+"3145" "2005" "Uruguay" 1
+"3146" "2006" "Uruguay" 0
+"3147" "2007" "Uruguay" 0
+"3148" "2008" "Uruguay" 0
+"3149" "2009" "Uruguay" 0
+"3150" "2010" "Uruguay" 0
+"3151" "1992" "Uzbekistan" 2
+"3152" "1994" "Uzbekistan" 0
+"3153" "1995" "Uzbekistan" 1
+"3154" "1996" "Uzbekistan" 0
+"3155" "1997" "Uzbekistan" 0
+"3156" "1998" "Uzbekistan" 0
+"3157" "1999" "Uzbekistan" 8
+"3158" "2000" "Uzbekistan" 0
+"3159" "2001" "Uzbekistan" 0
+"3160" "2002" "Uzbekistan" 0
+"3161" "2003" "Uzbekistan" 0
+"3162" "2004" "Uzbekistan" 5
+"3163" "2005" "Uzbekistan" 2
+"3164" "2006" "Uzbekistan" 0
+"3165" "2007" "Uzbekistan" 0
+"3166" "2008" "Uzbekistan" 0
+"3167" "2009" "Uzbekistan" 2
+"3168" "2010" "Uzbekistan" 0
+"3169" "1992" "Vanuatu" 0
+"3170" "1994" "Vanuatu" 0
+"3171" "1995" "Vanuatu" 0
+"3172" "1996" "Vanuatu" 2
+"3173" "1997" "Vanuatu" 0
+"3174" "1998" "Vanuatu" 0
+"3175" "1999" "Vanuatu" 0
+"3176" "2000" "Vanuatu" 0
+"3177" "2001" "Vanuatu" 0
+"3178" "2002" "Vanuatu" 0
+"3179" "2003" "Vanuatu" 0
+"3180" "2004" "Vanuatu" 0
+"3181" "2005" "Vanuatu" 0
+"3182" "2006" "Vanuatu" 0
+"3183" "2007" "Vanuatu" 0
+"3184" "2008" "Vanuatu" 0
+"3185" "2009" "Vanuatu" 0
+"3186" "2010" "Vanuatu" 0
+"3187" "1992" "Venezuela" 32
+"3188" "1994" "Venezuela" 12
+"3189" "1995" "Venezuela" 11
+"3190" "1996" "Venezuela" 12
+"3191" "1997" "Venezuela" 41
+"3192" "1998" "Venezuela" 1
+"3193" "1999" "Venezuela" 5
+"3194" "2000" "Venezuela" 0
+"3195" "2001" "Venezuela" 5
+"3196" "2002" "Venezuela" 5
+"3197" "2003" "Venezuela" 8
+"3198" "2004" "Venezuela" 0
+"3199" "2005" "Venezuela" 0
+"3200" "2006" "Venezuela" 0
+"3201" "2007" "Venezuela" 2
+"3202" "2008" "Venezuela" 1
+"3203" "2009" "Venezuela" 3
+"3204" "2010" "Venezuela" 0
+"3205" "1992" "Vietnam" 1
+"3206" "1994" "Vietnam" 1
+"3207" "1995" "Vietnam" 1
+"3208" "1996" "Vietnam" 1
+"3209" "1997" "Vietnam" 2
+"3210" "1998" "Vietnam" 0
+"3211" "1999" "Vietnam" 0
+"3212" "2000" "Vietnam" 0
+"3213" "2001" "Vietnam" 4
+"3214" "2002" "Vietnam" 0
+"3215" "2003" "Vietnam" 0
+"3216" "2004" "Vietnam" 0
+"3217" "2005" "Vietnam" 0
+"3218" "2006" "Vietnam" 0
+"3219" "2007" "Vietnam" 0
+"3220" "2008" "Vietnam" 0
+"3221" "2009" "Vietnam" 0
+"3222" "2010" "Vietnam" 0
+"3223" "1992" "Wallis and Futuna" 0
+"3224" "1994" "Wallis and Futuna" 1
+"3225" "1995" "Wallis and Futuna" 0
+"3226" "1996" "Wallis and Futuna" 0
+"3227" "1997" "Wallis and Futuna" 0
+"3228" "1998" "Wallis and Futuna" 0
+"3229" "1999" "Wallis and Futuna" 0
+"3230" "2000" "Wallis and Futuna" 0
+"3231" "2001" "Wallis and Futuna" 0
+"3232" "2002" "Wallis and Futuna" 0
+"3233" "2003" "Wallis and Futuna" 0
+"3234" "2004" "Wallis and Futuna" 0
+"3235" "2005" "Wallis and Futuna" 0
+"3236" "2006" "Wallis and Futuna" 0
+"3237" "2007" "Wallis and Futuna" 0
+"3238" "2008" "Wallis and Futuna" 0
+"3239" "2009" "Wallis and Futuna" 0
+"3240" "2010" "Wallis and Futuna" 0
+"3241" "1992" "West Bank and Gaza Strip" 119
+"3242" "1994" "West Bank and Gaza Strip" 166
+"3243" "1995" "West Bank and Gaza Strip" 68
+"3244" "1996" "West Bank and Gaza Strip" 30
+"3245" "1997" "West Bank and Gaza Strip" 22
+"3246" "1998" "West Bank and Gaza Strip" 12
+"3247" "1999" "West Bank and Gaza Strip" 11
+"3248" "2000" "West Bank and Gaza Strip" 28
+"3249" "2001" "West Bank and Gaza Strip" 123
+"3250" "2002" "West Bank and Gaza Strip" 86
+"3251" "2003" "West Bank and Gaza Strip" 46
+"3252" "2004" "West Bank and Gaza Strip" 34
+"3253" "2005" "West Bank and Gaza Strip" 39
+"3254" "2006" "West Bank and Gaza Strip" 35
+"3255" "2007" "West Bank and Gaza Strip" 88
+"3256" "2008" "West Bank and Gaza Strip" 68
+"3257" "2009" "West Bank and Gaza Strip" 10
+"3258" "2010" "West Bank and Gaza Strip" 11
+"3259" "1992" "Western Sahara" 1
+"3260" "1994" "Western Sahara" 0
+"3261" "1995" "Western Sahara" 0
+"3262" "1996" "Western Sahara" 0
+"3263" "1997" "Western Sahara" 0
+"3264" "1998" "Western Sahara" 0
+"3265" "1999" "Western Sahara" 0
+"3266" "2000" "Western Sahara" 0
+"3267" "2001" "Western Sahara" 0
+"3268" "2002" "Western Sahara" 0
+"3269" "2003" "Western Sahara" 0
+"3270" "2004" "Western Sahara" 0
+"3271" "2005" "Western Sahara" 0
+"3272" "2006" "Western Sahara" 0
+"3273" "2007" "Western Sahara" 1
+"3274" "2008" "Western Sahara" 0
+"3275" "2009" "Western Sahara" 0
+"3276" "2010" "Western Sahara" 0
+"3277" "1992" "Yemen" 25
+"3278" "1994" "Yemen" 19
+"3279" "1995" "Yemen" 8
+"3280" "1996" "Yemen" 8
+"3281" "1997" "Yemen" 19
+"3282" "1998" "Yemen" 7
+"3283" "1999" "Yemen" 17
+"3284" "2000" "Yemen" 10
+"3285" "2001" "Yemen" 7
+"3286" "2002" "Yemen" 7
+"3287" "2003" "Yemen" 7
+"3288" "2004" "Yemen" 0
+"3289" "2005" "Yemen" 7
+"3290" "2006" "Yemen" 5
+"3291" "2007" "Yemen" 7
+"3292" "2008" "Yemen" 22
+"3293" "2009" "Yemen" 23
+"3294" "2010" "Yemen" 112
+"3295" "1992" "Yugoslavia" 12
+"3296" "1994" "Yugoslavia" 1
+"3297" "1995" "Yugoslavia" 3
+"3298" "1996" "Yugoslavia" 16
+"3299" "1997" "Yugoslavia" 38
+"3300" "1998" "Yugoslavia" 46
+"3301" "1999" "Yugoslavia" 23
+"3302" "2000" "Yugoslavia" 14
+"3303" "2001" "Yugoslavia" 20
+"3304" "2002" "Yugoslavia" 3
+"3305" "2003" "Yugoslavia" 0
+"3306" "2004" "Yugoslavia" 0
+"3307" "2005" "Yugoslavia" 0
+"3308" "2006" "Yugoslavia" 0
+"3309" "2007" "Yugoslavia" 0
+"3310" "2008" "Yugoslavia" 0
+"3311" "2009" "Yugoslavia" 0
+"3312" "2010" "Yugoslavia" 0
+"3313" "1992" "Zaire" 5
+"3314" "1994" "Zaire" 7
+"3315" "1995" "Zaire" 6
+"3316" "1996" "Zaire" 13
+"3317" "1997" "Zaire" 5
+"3318" "1998" "Zaire" 0
+"3319" "1999" "Zaire" 0
+"3320" "2000" "Zaire" 0
+"3321" "2001" "Zaire" 0
+"3322" "2002" "Zaire" 0
+"3323" "2003" "Zaire" 0
+"3324" "2004" "Zaire" 0
+"3325" "2005" "Zaire" 0
+"3326" "2006" "Zaire" 0
+"3327" "2007" "Zaire" 0
+"3328" "2008" "Zaire" 0
+"3329" "2009" "Zaire" 0
+"3330" "2010" "Zaire" 0
+"3331" "1992" "Zambia" 0
+"3332" "1994" "Zambia" 0
+"3333" "1995" "Zambia" 1
+"3334" "1996" "Zambia" 4
+"3335" "1997" "Zambia" 0
+"3336" "1998" "Zambia" 0
+"3337" "1999" "Zambia" 7
+"3338" "2000" "Zambia" 8
+"3339" "2001" "Zambia" 0
+"3340" "2002" "Zambia" 1
+"3341" "2003" "Zambia" 0
+"3342" "2004" "Zambia" 0
+"3343" "2005" "Zambia" 0
+"3344" "2006" "Zambia" 0
+"3345" "2007" "Zambia" 0
+"3346" "2008" "Zambia" 0
+"3347" "2009" "Zambia" 0
+"3348" "2010" "Zambia" 0
+"3349" "1992" "Zimbabwe" 1
+"3350" "1994" "Zimbabwe" 1
+"3351" "1995" "Zimbabwe" 2
+"3352" "1996" "Zimbabwe" 0
+"3353" "1997" "Zimbabwe" 0
+"3354" "1998" "Zimbabwe" 0
+"3355" "1999" "Zimbabwe" 0
+"3356" "2000" "Zimbabwe" 1
+"3357" "2001" "Zimbabwe" 3
+"3358" "2002" "Zimbabwe" 8
+"3359" "2003" "Zimbabwe" 1
+"3360" "2004" "Zimbabwe" 0
+"3361" "2005" "Zimbabwe" 0
+"3362" "2006" "Zimbabwe" 1
+"3363" "2007" "Zimbabwe" 1
+"3364" "2008" "Zimbabwe" 5
+"3365" "2009" "Zimbabwe" 0
+"3366" "2010" "Zimbabwe" 1
