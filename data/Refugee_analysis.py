@@ -60,9 +60,18 @@ END
 Total refugee from a country over 2000-2013 (inclusive) time frame
 '''
 Total_rfg = []
-country = "Syrian Arab Republic"
+
+# country = "Syrian Arab Republic"
+country = "Islamic Republic of Iran"
+
 for year in range(2000,2014):
     Total_rfg.append(sum(df[df["Origin"] == country][year].astype(int)))
+P.ylabel("Number of Refugees")
+P.xlabel("years")
+P.title(country)
+
+# P.axis([2000, 2013,0, 1000000 ])
+P.plot(Total_rfg)
 
 '''
 END
