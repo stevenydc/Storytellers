@@ -1,0 +1,34 @@
+<%= javascript_include_tag 'topojson', 'data-turbolinks-track' => true %>
+<%= javascript_include_tag 'map' %>
+<%= javascript_include_tag 'datamaps.world.min', 'data-turbolinks-track' => true %>
+
+<h1>Refugees</h1>
+<div id="container" style="position: relative; width: 100%; height: 100%;"></div>
+
+<%= javascript_tag do %>
+  var map = new Datamap({element: document.getElementById('container')});
+
+  var map = new Datamap({
+      element: document.getElementById('container'),
+      fills: {
+          HIGH: '#afafaf',
+          LOW: '#123456',
+          MEDIUM: 'blue',
+          UNKNOWN: 'rgb(0,0,0)',
+          defaultFill: 'green'
+      },
+      data: {
+          IRL: {
+              fillKey: 'LOW',
+              numberOfThings: 2002
+          },
+          USA: {
+              fillKey: 'MEDIUM',
+              numberOfThings: 10381
+          }
+      }
+  });
+
+      //draw a legend for this map
+      map.legend();
+<% end %>
